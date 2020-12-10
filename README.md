@@ -70,7 +70,7 @@
 > - 역할 : PM, backend
 > - 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS7)
 > 
-> <img width="400" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample1.png"> <img width="400" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample2.png">
+> <img width="380" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample1.png"> <img width="380" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample2.png">
 
 ### 카카오헤어샵 모바일 스크래퍼
 > [Github](https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper)
