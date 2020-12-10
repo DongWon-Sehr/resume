@@ -59,18 +59,18 @@
 ## 개인 프로젝트
 
 ### 마리톡
-서울내 미용실 및 헤어스타일 추천 챗봇입니다. 
-다음 세 가지 질문에 대한 답변을 제공합니다.
-1. 사용자 맞춤 미용실 추천
-2. 미용실 관련 문의사항에 대한 답변 제공
-3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
-
-- 기간 : 2020.04 ~ 2020.06
-- 소속 : 팀마리
-- 역할 : PM, backend
-- 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS7)
-
-<img width="400" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample1.png"> <img width="400" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample2.png">
+> 서울내 미용실 및 헤어스타일 추천 챗봇입니다. 
+> 다음 세 가지 질문에 대한 답변을 제공합니다.
+> 1. 사용자 맞춤 미용실 추천
+> 2. 미용실 관련 문의사항에 대한 답변 제공
+> 3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
+> 
+> - 기간 : 2020.04 ~ 2020.06
+> - 소속 : 팀마리
+> - 역할 : PM, backend
+> - 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS7)
+> 
+> <img width="400" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample1.png"> <img width="400" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample2.png">
 
 ### 카카오헤어샵 모바일 스크래퍼
 [Github](https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper)
