@@ -16,6 +16,8 @@
     - 카카오헤어샵 모바일 스크래퍼
     - 스마트카 분석
 
+<br>
+<br>
 
 # 지인평가
 ### from. Daniel Lee (WEB Developer, 팀마리)
@@ -50,6 +52,8 @@
 [책볼건대](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ 현재
 
+<br>
+<br>
 
 # 프로젝트
 ## 개인 프로젝트
