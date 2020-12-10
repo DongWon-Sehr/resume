@@ -48,54 +48,44 @@
 [책볼건대](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ 현재
 
+
 # 프로젝트
 ## 개인 프로젝트
 
 ### 마리톡
-개인프로젝트로 만명이 넘는 dau를 경험하면서 다양한 이슈들을 정말 많이 접해볼수 있었던 소중한 경험을 했습니다.
+서울내 미용실 및 헤어스타일 추천 챗봇입니다. 
+다음 세 가지 질문에 대한 답변을 제공합니다.
+1. 사용자 맞춤 미용실 추천
+2. 미용실 관련 문의사항에 대한 답변 제공
+3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
+
 - 기간 : 2020.04 ~ 2020.06
 - 소속 : 팀마리
 - 역할 : PM, backend
-- 사용기술 : Python, GCP, Linux(CentOS)
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/13097922/82330172-6f48ea00-9a1d-11ea-9756-3b3203a889a0.png">
+- 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS7)
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/%EB%A7%88%EB%A6%AC%ED%86%A1%20%EB%8C%80%ED%99%94%2020200521%20-%20sample1.png">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/%EB%A7%88%EB%A6%AC%ED%86%A1%20%EB%8C%80%ED%99%94%2020200521%20-%20sample2.png">
 
 ### 카카오헤어샵 모바일 스크래퍼
 [Github]https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper
 
 Android Emulator Nox와 batch script file을 이용해 모바일앱의 데이터를 크롤링합니다. csv 파일 형태로 검색목록을 작성하면 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인하고, 리뷰를 비롯한 메타데이터를 수집합니다.
 
-<img width="200" alt="image" src="https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper/blob/main/sample%20images/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%97%A4%EC%96%B4%EC%83%B5%20%ED%81%AC%EB%A1%A4%EB%A7%81%2020200519%20-%20hairshop_existing_check.png">
-<img width="200" alt="image" src="https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper/blob/main/sample%20images/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%97%A4%EC%96%B4%EC%83%B5%20%ED%81%AC%EB%A1%A4%EB%A7%81%2020200520%20-%20hairshop_review_scrap.png">
+<img width="1000" alt="image" src="https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper/blob/main/sample%20images/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%97%A4%EC%96%B4%EC%83%B5%20%ED%81%AC%EB%A1%A4%EB%A7%81%2020200519%20-%20hairshop_existing_check.png">
+<img width="1000" alt="image" src="https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper/blob/main/sample%20images/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%97%A4%EC%96%B4%EC%83%B5%20%ED%81%AC%EB%A1%A4%EB%A7%81%2020200520%20-%20hairshop_review_scrap.png">
 
 ### 스마트카 분석
-일주일동안 있었던 일을 기록하고 회고 하기
-첫 백엔드 작업으로 프론트 개발자로써 평소에 생각하지 못하던 부분까지 다양한 생각을 해볼수 있는 좋은 기회였습니다.
+ 스마트카에서 발생하는 다양한 로그를 수집하여 기능별 상태점검을 하고 운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴을 분석합니다. 
+ Cloudera Manger를 사용해서 하둡 에코시스템을 구성하고 배치성 데이터 및 실시간 데이터의 수집, 정제, 분석하는 과정을 이해할 수 있었습니다.
 - 기간 : 2020.01 ~ 2020.02
 - 소속 : 개인
 - 역할 : backend
-- 사용기술 : hadoop
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/73514470-36b4de80-4435-11ea-9b6c-ecf19fab4634.png">
+- 사용기술 : hadoop(Redis, Hive, Spark), Linux(CentOS7)
+<img width="700" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-17%2012-36-18-440%20(DB%20-%20YARN%20%EC%9E%AC%EC%8B%9C%EC%9E%91).png">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-20%2011-23-32-856%20(DB%20-%20%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C%EB%A5%BC%20reverse%20%ED%95%9C%20row-key%20%ED%99%95%EC%9D%B8).png">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-19%2010-59-58-356%20(DB%20-%20%EC%A1%B0%ED%9A%8C%20%EC%99%84%EB%A3%8C).pngg">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-19%2011-01-49-086%20(DB%20-%20%EC%A0%95%EB%A0%AC%20%EC%84%A0%ED%83%9D).png">
 
 
-### JSPhoneFormat
-[Github](https://github.com/JeaSungLEE/JSPhoneFormat)
-
-한국전화번호 체계에 맞는 구분자 추가
-
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif"><img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif"><img width="200" alt="image" src="https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif">
-
-### LimitCellSelect
-[Github](https://github.com/JeaSungLEE/LimitCellSelect)
-
-You can specify the maximum number of cells that can be selected, and specify the cells that are selected by default.
-
-<img width="200" alt="image" src="https://github.com/kaskay/LimitCellSelect/raw/master/Image/LimitCellSelect.gif">
-
-### LimitButtonSelect
-[Github](https://github.com/JeaSungLEE/LimitButtonSelect)
-
-Limits the maximum number of buttons that can be selected.
-
-<img width="200" alt="image" src="https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect.gif"><img width="200" alt="image" src="https://github.com/kaskay/LimitButtonSelect/raw/master/Image/limitButtonSelect2.gif">
 
 
