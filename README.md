@@ -1,6 +1,6 @@
 # 서 동 원
 
-### 유쾌하고 즐거운 서비스를 만들고 싶은 개발자입니다.
+### 유쾌하고 즐거운 서비스를 만드는 개발자입니다.
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
@@ -69,7 +69,13 @@
 ### 카카오헤어샵 모바일 스크래퍼
 [Github](https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper)
 
+챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 개인적으로 시간을 들여 만든 간단한 프로그램입니다.
 Android Emulator Nox와 batch script file을 이용해 모바일앱의 데이터를 크롤링합니다. csv 파일 형태로 검색목록을 작성하면 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인하고, 리뷰를 비롯한 메타데이터를 수집합니다.
+
+- 기간 : 2020.05 ~ 2020.05
+- 소속 : 팀마리
+- 역할 : batch 프로그램 개발
+- 사용기술 : ADB command, Windows Batch
 
 <img width="1000" alt="image" src="https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper/blob/main/sample%20images/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%97%A4%EC%96%B4%EC%83%B5%20%ED%81%AC%EB%A1%A4%EB%A7%81%2020200519%20-%20hairshop_existing_check.png">
 
