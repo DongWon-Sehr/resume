@@ -1,6 +1,6 @@
 # 서 동 원
 
-### 디자인이 이쁜 앱을 만드는 것을 좋아하고, 게임 좋아하는 iOS 개발자입니다.
+### 유쾌하고 즐거운 서비스를 만들고 싶은 개발자입니다.
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
@@ -63,8 +63,8 @@
 - 소속 : 팀마리
 - 역할 : PM, backend
 - 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS7)
-<img width="500" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/%EB%A7%88%EB%A6%AC%ED%86%A1%20%EB%8C%80%ED%99%94%2020200521%20-%20sample1.png">
-<img width="500" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/%EB%A7%88%EB%A6%AC%ED%86%A1%20%EB%8C%80%ED%99%94%2020200521%20-%20sample2.png">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample1.png">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample2.png">
 
 ### 카카오헤어샵 모바일 스크래퍼
 [Github]https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper
@@ -83,7 +83,7 @@ Android Emulator Nox와 batch script file을 이용해 모바일앱의 데이터
 - 사용기술 : hadoop(Redis, Hive, Spark), Linux(CentOS7)
 <img width="700" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-17%2012-36-18-440%20(DB%20-%20YARN%20%EC%9E%AC%EC%8B%9C%EC%9E%91).png">
 <img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-20%2011-23-32-856%20(DB%20-%20%EC%98%A4%EB%8A%98%20%EB%82%A0%EC%A7%9C%EB%A5%BC%20reverse%20%ED%95%9C%20row-key%20%ED%99%95%EC%9D%B8).png">
-<img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-19%2010-59-58-356%20(DB%20-%20%EC%A1%B0%ED%9A%8C%20%EC%99%84%EB%A3%8C).pngg">
+<img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-19%2010-59-58-356%20(DB%20-%20%EC%A1%B0%ED%9A%8C%20%EC%99%84%EB%A3%8C).png">
 <img width="500" alt="image" src="https://github.com/DongWon-Sehr/smartcar_analysis_with_hadoop/blob/main/sample%20images/Cap%202020-02-19%2011-01-49-086%20(DB%20-%20%EC%A0%95%EB%A0%AC%20%EC%84%A0%ED%83%9D).png">
 
 
