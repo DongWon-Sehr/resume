@@ -9,6 +9,7 @@
 ## 목차
 - [지인평가](https://github.com/DongWon-Sehr/resume#지인평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
+     - 와일리
      - FINEADS
      - 책볼건대
 - [개인 프로젝트](https://github.com/DongWon-Sehr/resume#개인-프로젝트)
@@ -46,8 +47,12 @@
 
 # 경력
 ## 회사
+[와일리] https://wylie.co.kr/
+- 2018.06 ~ 현재
+
 [FINEADS](http://fineads.co.kr/en/home-eng/)
 - 2018.06 ~ 2018.08
+
 ## 단체
 [책볼건대](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ 현재
