@@ -48,7 +48,7 @@
 # 경력
 ## 회사
 [와일리](https://wylie.co.kr/)
-- 2018.06 ~ 현재
+- 2020.12 ~ 현재
 
 [FINEADS](http://fineads.co.kr/en/home-eng/)
 - 2018.06 ~ 2018.08
