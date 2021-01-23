@@ -81,7 +81,7 @@
 > [Github](https://github.com/DongWon-Sehr/kakaohairshop_mobile_scrapper)
 > 
 > 챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 개인적으로 시간을 들여 만든 간단한 프로그램입니다.
-> Android Emulator Nox와 batch script file을 이용해 모바일앱의 데이터를 크롤링합니다. csv 파일 형태로 검색목록을 작성하면 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인하고, 리뷰를 비롯한 메타데이터를 수집합니다.
+> Android Emulator Nox와 Windows batch script를 이용해 모바일앱의 데이터를 크롤링합니다. csv 파일 형태로 검색목록을 작성하면 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인하고, 리뷰를 비롯한 메타데이터를 수집합니다.
 > 
 > - 기간 : 2020.05 ~ 2020.05
 > - 소속 : 팀마리
