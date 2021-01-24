@@ -1,6 +1,6 @@
 # 서동원 (DongWon Sehr)
 
-### 유쾌하고 즐겁게 사용자와 연결되는 서비스를 만드는 개발자입니다.
+### 유쾌하고 즐겁게 사용자와 연결되는 서비스를 만들고 싶습니다.
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
