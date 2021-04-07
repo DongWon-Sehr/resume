@@ -47,8 +47,11 @@
 
 # 경력
 ## 회사
+[NEW ID](https://www.its-newid.com/)
+- 2021.03 ~ 현재
+
 [와일리](https://wylie.co.kr/)
-- 2020.12 ~ 현재
+- 2020.12 ~ 2021.03
 
 [FINEADS](http://fineads.co.kr/en/home-eng/)
 - 2018.06 ~ 2018.08
