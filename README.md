@@ -9,7 +9,7 @@
 ## 목차
 - [지인평가](https://github.com/DongWon-Sehr/resume#지인평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
-     -     
+     - NEW ID  
      - 와일리
      - FINEADS
      - 책볼건대
