@@ -59,7 +59,7 @@
 
 ## 단체
 [책볼건대](https://www.instagram.com/bookclub_cbgd)
-- 2017.02 ~ 현재
+- 2017.02 ~ 2021.12
 
 <br>
 <br>
