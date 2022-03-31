@@ -11,7 +11,6 @@
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
      - NEW ID  
      - 와일리
-     - FINEADS
      - 책볼건대
 - [개인 프로젝트](https://github.com/DongWon-Sehr/resume#개인-프로젝트)
     - 마리톡
