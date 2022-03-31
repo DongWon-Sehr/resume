@@ -54,9 +54,6 @@
 [와일리](https://wylie.co.kr/)
 - 2020.12 ~ 2021.03
 
-[FINEADS](http://fineads.co.kr/en/home-eng/)
-- 2018.06 ~ 2018.08
-
 ## 단체
 [책볼건대](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ 2021.12
