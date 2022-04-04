@@ -73,7 +73,7 @@
 > - 기간 : 2020.04 ~ 2020.06
 > - 소속 : 팀마리
 > - 역할 : PM, backend
-> - 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS7), MariaDB
+> - 사용기술 : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
 > 
 > <img width="380" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample1.png"> <img width="380" alt="image" src="https://github.com/DongWon-Sehr/project_marytalk/blob/master/sample%20image/marytalk_conversation_20200521_sample2.png">
 
