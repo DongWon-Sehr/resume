@@ -7,7 +7,7 @@
 - linkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 ## 목차
-- [지인평가](https://github.com/DongWon-Sehr/resume#지인평가)
+- [동료평가](https://github.com/DongWon-Sehr/resume#지인평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
      - NEW ID  
      - 와일리
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-# 지인평가
+# 동료평가
 ### from. Daniel Lee (WEB Developer, 팀마리)
 
 > - 강한 탐구정신과 도전정신으로 새로운 모듈들을 응용하는 능력이 뛰어납니다.
