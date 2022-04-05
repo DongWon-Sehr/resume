@@ -7,7 +7,7 @@
 - linkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 ## 목차
-- [동료평가](https://github.com/DongWon-Sehr/resume#지인평가)
+- [동료평가](https://github.com/DongWon-Sehr/resume#평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
      - NEW ID  
      - 와일리
