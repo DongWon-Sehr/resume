@@ -12,7 +12,7 @@
      - NEW ID  
      - Wylie
      - 책볼건대
-- [개인 프로젝트](https://github.com/DongWon-Sehr/resume#개인-프로젝트)
+- [프로젝트](https://github.com/DongWon-Sehr/resume#프로젝트)
     - 마리톡
     - 카카오헤어샵 모바일 스크래퍼
     - 스마트카 분석
