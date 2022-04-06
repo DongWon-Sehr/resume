@@ -13,7 +13,7 @@ English Version
 
 # 목차
 - [동료평가](https://github.com/DongWon-Sehr/resume#동료평가)
-- [경력](https://github.com/DongWon-Sehr/resume#경력)
+- [경력사항](https://github.com/DongWon-Sehr/resume#경력)
 - [프로젝트](https://github.com/DongWon-Sehr/resume#프로젝트)
 - [교육사항](https://github.com/DongWon-Sehr/resume#교육사항)
 
@@ -54,7 +54,7 @@ English Version
 <br>
 <br>
 
-# [경력](https://github.com/DongWon-Sehr/resume#목차)
+# [경력사항](https://github.com/DongWon-Sehr/resume#목차)
 ## 회사
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ 현재
