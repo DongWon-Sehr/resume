@@ -11,7 +11,7 @@ English Version
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
-## 목차
+# 목차
 - [동료평가](https://github.com/DongWon-Sehr/resume#동료평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
 - [프로젝트](https://github.com/DongWon-Sehr/resume#프로젝트)
@@ -20,7 +20,7 @@ English Version
 <br>
 <br>
 
-# [동료평가](https://github.com/DongWon-Sehr/resume##목차)
+# [동료평가](https://github.com/DongWon-Sehr/resume#목차)
 ### from. 엄정일 (Software Engineer, NEW ID)
 > -
 
@@ -54,7 +54,7 @@ English Version
 <br>
 <br>
 
-# [경력](https://github.com/DongWon-Sehr/resume##목차)
+# [경력](https://github.com/DongWon-Sehr/resume#목차)
 ## 회사
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ 현재
@@ -69,7 +69,7 @@ English Version
 <br>
 <br>
 
-# [프로젝트](https://github.com/DongWon-Sehr/resume##목차)
+# [프로젝트](https://github.com/DongWon-Sehr/resume#목차)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -188,7 +188,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [교육사항](https://github.com/DongWon-Sehr/resume##목차)
+# [교육사항](https://github.com/DongWon-Sehr/resume#목차)
 ### 더조은아카데미
 - 2019.12 ~ 2020.06
 - 파이썬 빅테이터 개발,분석 전문가 과정 수료
