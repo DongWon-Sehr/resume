@@ -93,9 +93,14 @@ Software Engineer <br>
 - 인코딩/트렌스코딩 된 비디오의 QC 작업이 필요하여 착수하게 된 프로젝트입니다.
 - AWS EC2 인스턴스로 구성하여 클라우드 환경에서 Video QC 작업을 진행합니다.
 ### What did I do?
-- 프로젝트 기획
+- Work Flow 기획
+- AWS EC2 인스턴스 서버 구축
+- FFmpeg 라이브러리와 Netflix VMAF 오픈소스를 활용해 Video QC 개발
+- QC Job Queue 생성 / 결과 로그 저장 API 개발
+- 인스턴스 관리 및 Video QC 작업 모니터링 페이지 개발
 ### Tech Stack
-- PHP
+- PHP, FFmpeg
+
     
 ## CMS 고도화
 2021.03 ~ curent
@@ -116,79 +121,66 @@ Software Engineer <br>
 <tr>
 <td>
 
-    Wylie
-
-    2020.12 ~ 2021.03
+Side Project: Team Mary <br>
+PM, Backend Developer, Data Engineer<br>
+2020.04 ~ 2020.06 <br>
 
 </td>
 <td>
 
-    Project : Juvis App/Web Renewal
-    Team :
-    Role :
-    Tech Stack :
-    Summury :
-    Rorem Ipsum
+## 마리톡 챗봇 개발
+2020.04 ~ 2020.06
+### Description
+- 서울내 미용실 및 헤어스타일 추천 챗봇입니다.
+- 다음 세 가지 질문에 대한 답변을 제공합니다.
+1. 사용자 맞춤 미용실 추천
+2. 미용실 관련 문의사항에 대한 답변 제공
+3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
+### What did I do?
+- 프로젝트 매니징
+- 서버 구성 및 환경설정
+- 미용실 리뷰 데이터 크롤링
+- 데이터 전처리, 분류, 정제 및 모델 학습
+- 카카오톡 채널 연동
+### Tech Stack
+- Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
+
+
+## 카카오 헤어샵 모바일 스크래퍼
+2020.05 ~ 2020.05
+### Description
+- 챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 만든 프로그램입니다.
+- Android Emulator Nox와 Windows Batch Script를 이용해 모바일앱의 리뷰 데이터를 수집합니다.
+- ImageMagick, Charles Web Debugging Proxy Tool 등을 활용해 구현했습니다.
+### What did I do?
+- 프로그램 개발
+### Tech Stack
+- ADB command, Windows Batch
 
 </td>
 </tr>
-<tr>
+
 <td>
 
-    Side Project
-
-    2020.04 ~ 2020.06
+Side Project: 개인 프로젝트 <br>
+Backend Developer, Data Engineer<br>
+2020.01 ~ 2020.02 <br>
 
 </td>
 <td>
 
-    Project : Mary Talk
-    Team : Team Mary
-    Role : PM, Backend
-    Tech Stack : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
-    Summury :
-    서울내 미용실 및 헤어스타일 추천 챗봇.
-    다음 세 가지 질문에 대한 답변을 제공.
-    1. 사용자 맞춤 미용실 추천
-    2. 미용실 관련 문의사항에 대한 답변 제공
-    3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
-
-</td>
-</tr>
-<tr>
-<td>     
-</td>
-<td>
-
-    Project : Kakao Hairshop Mobile Scrapper
-    Team : Team Mary
-    Role :
-    Tech Stack : ADB command, Windows Batch
-    Summury :
-    챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 만든 간단한 프로그램.
-    Android Emulator Nox와 Windows Batch Script를 이용해 모바일앱의 데이터를 크롤링.
-    csv 파일로 검색목록을 작성 후 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인.
-    이후 리뷰를 비롯한 메타데이터를 수집.
-
-</td>
-</tr>
-<td>
-
-    Side Project
-
-    2020.01 ~ 2020.02
-
-</td>
-<td>
-
-    Project : Analyzing Smart Car Log
-    Team : Personal Study
-    Role : Backend
-    Tech Stack : Kafka, Redis, Spark, HBase, Hive, Linux(CentOS 7)
-    Summury :
-    스마트카에서 발생하는 다양한 로그를 배치로 수집하여 기능별 상태점검 수헹.
-    운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴을 분석 수행.
-    Cloudera Manger를 사용해서 하둡 에코시스템을 구성하고 배치성 데이터 및 실시간 데이터의 수집, 정제, 분석하는 과정을 이해.
+## 스마트카 로그 분석
+2020.01 ~ 2020.02
+### Description
+- 스마트카에서 발생하는 다양한 로그를 배치로 수집하여 기능별 상태점검 수헹합니다.
+- 운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴을 분석 수행합니다.
+### What did I do?
+- CentOS 7 서버 구축 (VirtualBox)
+- Cloudera Manger를 통해 하둡 에코시스템을 구성
+- 배치성 데이터 및 실시간 데이터 파이프라인 구축
+- 데이터 분석
+### Tech Stack
+- Kafka, Redis, Spark, HBase, Hive, Linux(CentOS 7)
 
 </td>
 </tr>
