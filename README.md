@@ -1,26 +1,21 @@
 # 서동원 (DongWon Sehr)
 
 <a href="https://github.com/DongWon-Sehr/resume/resume_en">
-    <button>ENG</button>
+ENG version
 </a>
 
 
 ### 궁금한게 많은 욕심 많은 개발자
 
-- Email: dongwon.sehr@gmail.com <a href="#"><img src="https://img.shields.io/static/v1?label=&logo=gmail&message=dongwon.sehr@gmail.com&color=grey&style=plastic"></a>
+- Email: dongwon.sehr@gmail.com <!-- <a href="#"><img src="https://img.shields.io/static/v1?label=&logo=gmail&message=dongwon.sehr@gmail.com&color=grey&style=plastic"></a> -->
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 ## 목차
-- [동료평가](https://github.com/DongWon-Sehr/resume#평가)
+- [동료평가](https://github.com/DongWon-Sehr/resume#동료평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
-     - NEW ID  
-     - Wylie
-     - 책볼건대
 - [프로젝트](https://github.com/DongWon-Sehr/resume#프로젝트)
-    - 마리톡
-    - 카카오헤어샵 모바일 스크래퍼
-    - 스마트카 분석
+- [교육사항](https://github.com/DongWon-Sehr/resume#교육사항) 
 
 <br>
 <br>
@@ -101,6 +96,8 @@ Software Engineer <br>
 ### Tech Stack
 - PHP, FFmpeg
 
+<br>
+<br>
     
 ## CMS 고도화
 2021.03 ~ curent
@@ -145,7 +142,9 @@ PM, Backend Developer, Data Engineer<br>
 ### Tech Stack
 - Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
 
-
+<br>
+<br>
+    
 ## 카카오 헤어샵 모바일 스크래퍼
 2020.05 ~ 2020.05
 ### Description
@@ -186,6 +185,25 @@ Backend Developer, Data Engineer<br>
 </tr>
 </table>
 
+<br>
+<br>
+
+# 교육사항
+### 더조은아카데미
+- 2019.12 ~ 2020.06
+- 파이썬 빅테이터 개발,분석 전문가 과정 수료
+### 건국대학교 
+- 2012.03 ~ 2019.08
+- 항공우주정보시스템공학과 졸업
+
+<br>
+<hr>
+
+# 서동원 (DongWon Sehr)
+
+- Email: dongwon.sehr@gmail.com <!-- <a href="#"><img src="https://img.shields.io/static/v1?label=&logo=gmail&message=dongwon.sehr@gmail.com&color=grey&style=plastic"></a> -->
+- GitHub: https://github.com/DongWon-Sehr
+- LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 <!--
 
