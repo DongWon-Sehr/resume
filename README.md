@@ -5,11 +5,11 @@
 </a>
 
 
-### 유쾌하고 즐겁게 사용자와 연결되는 서비스를 만들고 싶습니다.
+### 궁금한게 많은 욕심 많은 개발자
 
-- Email: dongwon.sehr@gmail.com
+- Email: dongwon.sehr@gmail.com <a href="#"><img src="https://img.shields.io/static/v1?label=&logo=gmail&message=dongwon.sehr@gmail.com&color=grey&style=plastic"></a>
 - GitHub: https://github.com/DongWon-Sehr
-- linkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
+- LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 ## 목차
 - [동료평가](https://github.com/DongWon-Sehr/resume#평가)
@@ -73,88 +73,105 @@
 
 # 프로젝트
 <table style="border-collapse: collapse; border: none;">
-     
+
 <tr>
-<td>
-     
-     NEW ID
-     
-     2021.03 ~ current
-     
+<td sytle="width:30px;">
+
+    NEW ID
+
+    2021.03 ~ current
+
 </td>
 <td>
-     
-     Project : CMS DevOps
-     Team : Dev Team
-     Role : 
-     Tech Stack : JavaScript, PHP
-     Summury :
-     Rorem Ipsum
-     
+
+    Project : CMS DevOps
+    Team : Dev Team
+    Role :
+    Tech Stack : JavaScript, PHP
+    Summury :
+    Rorem Ipsum
+
 </td>
 </tr>
-     
 <tr>
 <td>
-     
-     Side Project
-     
-     2020.04 ~ 2020.06
-     
+
+    Wylie
+
+    2020.12 ~ 2021.03
+
 </td>
 <td>
-     
-     Project : Mary Talk
-     Team : Team Mary
-     Role : PM, Backend
-     Tech Stack : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
-     Summury :
-     서울내 미용실 및 헤어스타일 추천 챗봇입니다. 
-     다음 세 가지 질문에 대한 답변을 제공합니다.
-     1. 사용자 맞춤 미용실 추천
-     2. 미용실 관련 문의사항에 대한 답변 제공
-     3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
-     
+
+    Project : Juvis App/Web Renewal
+    Team :
+    Role :
+    Tech Stack :
+    Summury :
+    Rorem Ipsum
+
 </td>
 </tr>
-     
+<tr>
+<td>
+
+    Side Project
+
+    2020.04 ~ 2020.06
+
+</td>
+<td>
+
+    Project : Mary Talk
+    Team : Team Mary
+    Role : PM, Backend
+    Tech Stack : Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
+    Summury :
+    서울내 미용실 및 헤어스타일 추천 챗봇.
+    다음 세 가지 질문에 대한 답변을 제공.
+    1. 사용자 맞춤 미용실 추천
+    2. 미용실 관련 문의사항에 대한 답변 제공
+    3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
+
+</td>
+</tr>
 <tr>
 <td>     
 </td>
 <td>
-     
-     Project : Kakao Hairshop Mobile Scrapper
-     Team : Team Mary
-     Role : 
-     Tech Stack : ADB command, Windows Batch
-     Summury :
-     챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 개인적으로 시간을 들여 만든 간단한 프로그램입니다.
-     Android Emulator Nox와 Windows batch script를 이용해 모바일앱의 데이터를 크롤링합니다. 
-     csv 파일 형태로 검색목록을 작성하면 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인하고, 리뷰를 비롯한 메타데이터를 수집합니다.
-     
-</td>
-</tr>
-     
-<td>
-     
-     Side Project
-     
-     2020.01 ~ 2020.02
-     
-</td>
-<td>
-     
-     Project : Analyzing Smart Car Log
-     Team : Personal Study
-     Role : Backend
-     Tech Stack : Hadoop echo system(Redis, Hive, Spark), Linux(CentOS7)
-     Summury :
-     스마트카에서 발생하는 다양한 로그를 수집하여 기능별 상태점검을 하고 운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴을 분석합니다. 
-     Cloudera Manger를 사용해서 하둡 에코시스템을 구성하고 배치성 데이터 및 실시간 데이터의 수집, 정제, 분석하는 과정을 이해할 수 있었습니다.
-     
-</td>
-</tr>
 
+    Project : Kakao Hairshop Mobile Scrapper
+    Team : Team Mary
+    Role :
+    Tech Stack : ADB command, Windows Batch
+    Summury :
+    챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 만든 간단한 프로그램.
+    Android Emulator Nox와 Windows Batch Script를 이용해 모바일앱의 데이터를 크롤링.
+    csv 파일로 검색목록을 작성 후 해당 헤어샵이 카카오헤어샵에 등록된 업소인지 확인.
+    이후 리뷰를 비롯한 메타데이터를 수집.
+
+</td>
+</tr>
+<td>
+
+    Side Project
+
+    2020.01 ~ 2020.02
+
+</td>
+<td>
+
+    Project : Analyzing Smart Car Log
+    Team : Personal Study
+    Role : Backend
+    Tech Stack : Kafka, Redis, Spark, HBase, Hive, Linux(CentOS 7)
+    Summury :
+    스마트카에서 발생하는 다양한 로그를 배치로 수집하여 기능별 상태점검 수헹.
+    운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴을 분석 수행.
+    Cloudera Manger를 사용해서 하둡 에코시스템을 구성하고 배치성 데이터 및 실시간 데이터의 수집, 정제, 분석하는 과정을 이해.
+
+</td>
+</tr>
 </table>
 
 
