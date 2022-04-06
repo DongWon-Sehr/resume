@@ -1,6 +1,10 @@
 # 서동원 (DongWon Sehr)
 
-<p style="align:left"><a>KOR</a></p>
+<button type="button" onclick="location.href='https://github.com/DongWon-Sehr/resume';">KOR</button>
+<br>
+<form action="https://github.com/DongWon-Sehr/resume">
+<input type="button" value="Go to Google" />kor
+</form>
 
 ### 유쾌하고 즐겁게 사용자와 연결되는 서비스를 만들고 싶습니다.
 
