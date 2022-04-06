@@ -10,7 +10,7 @@
 - [동료평가](https://github.com/DongWon-Sehr/resume#평가)
 - [경력](https://github.com/DongWon-Sehr/resume#경력)
      - NEW ID  
-     - 와일리
+     - Wylie
      - 책볼건대
 - [개인 프로젝트](https://github.com/DongWon-Sehr/resume#개인-프로젝트)
     - 마리톡
@@ -21,6 +21,12 @@
 <br>
 
 # 동료평가
+### from. 표소희 (기획자, Wylie)
+
+> - 모르는 부분은, 개발팀, 디자인팀, 기획팀 가리지 않고 질문하며 답을 찾아가는 분이셨습니다.
+> - 수정사항, 전달사항은 항상 메모하여 일처리가 꼼꼼하고 믿을 수 있었습니다.
+> - 구조화에 능해서 데이터를 체계적으로 테이블화합니다. 
+
 ### from. Daniel Lee (WEB Developer, 팀마리)
 
 > - 강한 탐구정신과 도전정신으로 새로운 모듈들을 응용하는 능력이 뛰어납니다.
@@ -50,7 +56,7 @@
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ 현재
 
-[와일리](https://wylie.co.kr/)
+[Wylie](https://wylie.co.kr/)
 - 2020.12 ~ 2021.03
 
 ## 단체
