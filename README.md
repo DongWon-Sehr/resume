@@ -1,5 +1,10 @@
 # 서동원 (DongWon Sehr)
 
+<a href="https://github.com/DongWon-Sehr/resume/resume_en">
+    <button>ENG</button>
+</a>
+
+
 ### 유쾌하고 즐겁게 사용자와 연결되는 서비스를 만들고 싶습니다.
 
 - Email: dongwon.sehr@gmail.com
