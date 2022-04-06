@@ -77,19 +77,36 @@
 <tr>
 <td sytle="width:30px;">
 
-    NEW ID
-
-    2021.03 ~ current
+NEW ID <br>
+Software Engineer <br>
+2021.03 ~ current <br>
 
 </td>
 <td>
 
-    Project : CMS DevOps
-    Team : Dev Team
-    Role :
-    Tech Stack : JavaScript, PHP
-    Summury :
-    Rorem Ipsum
+## Cloud Video QC
+2022.01 ~ 2022.03
+### Description
+- 인코딩/트렌스코딩 된 비디오의 QC 작업이 필요하여 착수하게 된 프로젝트입니다.
+- AWS EC2 인스턴스로 구성하여 클라우드 환경에서 Video QC 작업을 진행합니다.
+### What did I do?
+- 프로젝트 기획
+### Tech Stack
+- PHP
+    
+## CMS 고도화
+2021.03 ~ curent
+### Description
+- 컨텐츠 업로드, 메타데이터 관리, 채널 관리, 스케줄 편성 등 다양한 작업이 CMS 를 통해 이루어집니다.
+- 이를 유지/보수/고도화 하는 작업입니다.
+### What did I do?
+- Library 삭제 Work Flow 기획 및 기능 구현 (Storage & Cost Save)
+- 삭제 이력 조회 페이지 개발
+- 공통 페이지 UI 개선
+- 채널 관리 페이지 검색필터 개발
+- 스케줄 다운로드 기능 구현 (Excel, PDF, HTM)
+### Tech Stack
+- JavaScript, PHP
 
 </td>
 </tr>
