@@ -1,6 +1,6 @@
 # 서동원 (DongWon Sehr)
 
-<a href="https://github.com/DongWon-Sehr/resume/resume_en">
+<a href="https://github.com/DongWon-Sehr/resume/tree/main/resume_en">
 ENG version
 </a>
 
