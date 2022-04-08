@@ -1,52 +1,52 @@
-# DongWon Sehr (서동원)
+# 서동원 (DongWon Sehr)
 
-<a href="https://github.com/DongWon-Sehr/resume/tree/main/resume_en">
-한국어 버전
+<a href="https://github.com/DongWon-Sehr/resume/">
+English Version
 </a>
 
 
-### Adventurous Software Developer 🚀
+### 궁금한게 많은 욕심 많은 개발자
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 # 목차
-- [Peer Review](https://github.com/DongWon-Sehr/resume#Peer-Review)
-- [Experience](https://github.com/DongWon-Sehr/resume#Experience)
-- [Projects](https://github.com/DongWon-Sehr/resume#Projects)
-- [Education](https://github.com/DongWon-Sehr/resume#Education)
+- [동료평가](https://github.com/DongWon-Sehr/resume#동료평가)
+- [경력사항](https://github.com/DongWon-Sehr/resume#경력)
+- [프로젝트](https://github.com/DongWon-Sehr/resume#프로젝트)
+- [교육사항](https://github.com/DongWon-Sehr/resume#교육사항)
 
 <br>
 <br>
 
-# [Peer Review](https://github.com/DongWon-Sehr/resume#Index)
-### from. Jeongil Um (Software Engineer, NEW ID)
+# [동료평가](https://github.com/DongWon-Sehr/resume#목차)
+### from. 엄정일 (Software Engineer, 뉴아이디)
 > - 서동원 님은 새로운 기술에 대한 습득 및 활용, 비즈니스 로직에 대한 이해, 개발팀을 포함한 다양한 팀과의 훌륭한 협업에 있어서 장점을 가지는 개발자입니다.
 > - 이러한 그의 능력들은 언제나 팀과 회사가 가고자 하는 방향에 좋은 영향을 주었습니다.
 > - 특히, 잘 정리된 코드와 문서들은 다른 동료들과의 협업 환경을 개선하는데 큰 도움이 되었습니다.
 
-### from. Shane Pyo (IT Service Planner, Wylie)
+### from. 표소희 (기획자, 와일리)
 
 > - 모르는 부분은, 개발팀, 디자인팀, 기획팀 가리지 않고 질문하며 답을 찾아가는 분이셨습니다.
 > - 수정사항, 전달사항은 항상 메모하여 일처리가 꼼꼼하고 믿을 수 있었습니다.
 > - 구조화에 능해서 데이터를 체계적으로 테이블화합니다. 
 
-### from. Daniel Lee (WEB Developer, Team Mary)
+### from. Daniel Lee (WEB Developer, 팀마리)
 
 > - 강한 탐구정신과 도전정신으로 새로운 모듈들을 응용하는 능력이 뛰어납니다.
 > - 팀장으로서 팀원들을 잘 챙겨주고 지속적인 커뮤니케이션을 통해 팀을 이끌어 나갑니다.
 > - 스트레스를 받는 상황에서도 유쾌함으로 스트레스를 타파합니다.
 > - 일이 해결될 때까지 끈기를 가지고 최선을 다합니다.
 
-### from. Minho Seong (WEB Developer, Team Mary)
+### from. 성민호 (WEB Developer, 팀마리)
 
  > - 목표를 명확히 설정하고 실현하는 능력이 탁월합니다.
  > - 해결하지 못한 문제에 대해서 끊임없이 탐구하고 다양한 방법을 모색하여 해결책을 찾습니다.
  > - 팀원들과 잘 소통하고 다양한 의견에 대해서 정리를 잘합니다.
  > - 지치는 상황 속에서도 좋은 분위기를 이끌어내기 위해 힘써 일합니다.
 
-### from. Taekho Hyun (WEB Developer, Team Mary)
+### from. 현택호 (WEB Developer, 팀마리)
 
 > - 주어진 과업 외 목표 달성에 필요한 역할을 스스로 수행하여 팀 내 모범이 됩니다.
 > - 목표 달성에 필요한 자원 파악 및 분배에 있어 팀원들과의 소통을 통해 합리적으로 수행하여 모두가 만족할 수 있도록 합니다.
@@ -56,22 +56,22 @@
 <br>
 <br>
 
-# [Experience](https://github.com/DongWon-Sehr/resume#Index)
-## Career
-[NEW ID](https://www.its-newid.com/)
-- 2021.03 ~ Current
+# [경력사항](https://github.com/DongWon-Sehr/resume#목차)
+## 회사
+[뉴아이디](https://www.its-newid.com/)
+- 2021.03 ~ 현재
 
-[Wylie](https://wylie.co.kr/)
+[와일리](https://wylie.co.kr/)
 - 2020.12 ~ 2021.03
 
-## Social Club
-[Bookclub CBGD](https://www.instagram.com/bookclub_cbgd)
+## 단체
+[책볼건대](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ 2021.12
 
 <br>
 <br>
 
-# [Projects](https://github.com/DongWon-Sehr/resume#Index)
+# [프로젝트](https://github.com/DongWon-Sehr/resume#목차)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -191,18 +191,18 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [Education](https://github.com/DongWon-Sehr/resume#Index)
-### Thejoeun Academy
+# [교육사항](https://github.com/DongWon-Sehr/resume#목차)
+### 더조은아카데미
 - 2019.12 ~ 2020.06
-- Development & Analyze Bigdata with Python
-### Konkuk Univ. 
+- 파이썬 빅테이터 개발,분석 전문가 과정 수료
+### 건국대학교 
 - 2012.03 ~ 2019.08
-- Bachelor's degree of science, Aerospace Infromation Engineering
+- 항공우주정보시스템공학과 졸업
 
 <br>
 <hr>
 
-# DongWon Sehr (서동원))
+# 서동원 (DongWon Sehr)
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
