@@ -12,15 +12,15 @@ English Version
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
 # 목차
-- [동료평가](https://github.com/DongWon-Sehr/resume#동료평가)
-- [경력사항](https://github.com/DongWon-Sehr/resume#경력)
-- [프로젝트](https://github.com/DongWon-Sehr/resume#프로젝트)
-- [교육사항](https://github.com/DongWon-Sehr/resume#교육사항)
+- [동료평가](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#동료평가)
+- [경력사항](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#경력)
+- [프로젝트](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#프로젝트)
+- [교육사항](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#교육사항)
 
 <br>
 <br>
 
-# [동료평가](https://github.com/DongWon-Sehr/resume#목차)
+# [동료평가](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
 ### from. 엄정일 (Software Engineer, 뉴아이디)
 > - 서동원 님은 새로운 기술에 대한 습득 및 활용, 비즈니스 로직에 대한 이해, 개발팀을 포함한 다양한 팀과의 훌륭한 협업에 있어서 장점을 가지는 개발자입니다.
 > - 이러한 그의 능력들은 언제나 팀과 회사가 가고자 하는 방향에 좋은 영향을 주었습니다.
@@ -56,7 +56,7 @@ English Version
 <br>
 <br>
 
-# [경력사항](https://github.com/DongWon-Sehr/resume#목차)
+# [경력사항](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
 ## 회사
 [뉴아이디](https://www.its-newid.com/)
 - 2021.03 ~ 현재
@@ -71,7 +71,7 @@ English Version
 <br>
 <br>
 
-# [프로젝트](https://github.com/DongWon-Sehr/resume#목차)
+# [프로젝트](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -191,7 +191,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [교육사항](https://github.com/DongWon-Sehr/resume#목차)
+# [교육사항](-Sehr/resume#Index)https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
 ### 더조은아카데미
 - 2019.12 ~ 2020.06
 - 파이썬 빅테이터 개발,분석 전문가 과정 수료
