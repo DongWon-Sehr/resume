@@ -5,7 +5,7 @@ English Version
 </a>
 
 
-### 궁금한게 많은 욕심 많은 개발자
+### 궁금한게 많은 욕심 많은 개발자 🥸
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
