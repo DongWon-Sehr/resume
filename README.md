@@ -105,7 +105,7 @@ Software Engineer <br>
 ## CMS MRO
 2021.03 ~ curent
 ### Description
-- Developed and maintained in-house CMS(Content Management System) which provides content upload, metadata management, channel management, scheduling and etc
+- Developed and maintained in-house CMS(Content Management System) which provides features, including content uploading, metadata management, channel management, scheduling
 - Troubleshooting, improving UI/UX, development required features
 ### What did I do?
 - Developed delete library feature (Storage & Cost Save)
