@@ -1,6 +1,6 @@
 <p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English Version</a></p>
 
-# 반갑습니다
+# 반갑습니다 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 제 이름은 서동원 (DongWon Sehr) 입니다.
 ### 저는 _____ 입니다.
 - 궁금한게 많은 개발자 🥸
