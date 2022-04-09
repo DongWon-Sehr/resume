@@ -90,7 +90,7 @@ Software Engineer <br>
 - 인코딩/트렌스코딩 된 비디오의 QC 프로세스를 구축한 프로젝트입니다
 - AWS EC2 인스턴스로 서버를 구축하여 클라우드 환경에서 Video QC 작업을 진행합니다
 ### What did I do?
-- Work Flow 기획
+- 프로젝트 기획
 - AWS EC2 인스턴스 서버 구축
 - FFmpeg 라이브러리와 Netflix VMAF 오픈소스를 활용해 Video QC 개발
 - 장애 알림 Telegram Bot 연동
