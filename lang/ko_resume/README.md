@@ -1,4 +1,5 @@
-# 서동원 (DongWon Sehr)
+# 반갑습니다.
+## 저는 서동원 (DongWon Sehr) 입니다.
 
 <a href="https://github.com/DongWon-Sehr/resume/">
 English Version
