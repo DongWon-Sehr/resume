@@ -7,6 +7,9 @@
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177
 
+<br>
+<br>
+
 # Index
 - [Peer Review](https://github.com/DongWon-Sehr/resume#Peer-Review)
 - [Experience](https://github.com/DongWon-Sehr/resume#Experience)
