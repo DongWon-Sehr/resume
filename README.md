@@ -57,14 +57,14 @@
 <br>
 
 # [Experience](https://github.com/DongWon-Sehr/resume#Index)
-## Career
+## Professional Experience
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ Current
 
 [Wylie](https://wylie.co.kr/)
 - 2020.12 ~ 2021.03
 
-## Social Club
+## Social Activities
 [Bookclub CBGD](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ 2021.12
 
