@@ -1,15 +1,12 @@
-# 반갑습니다.
+<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English Version</a></p>
+
+# 반갑습니다
 ### 저는 서동원 (DongWon Sehr) 입니다.
-
-<a href="https://github.com/DongWon-Sehr/resume/">
-English Version
-</a>
-
 ### 궁금한게 많은 욕심 많은 개발자 🥸
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
-- LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
+- LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177
 
 <br>
 <br>
@@ -205,7 +202,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <hr>
 
-# [서동원 (DongWon Sehr)](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#%EC%84%9C%EB%8F%99%EC%9B%90-dongwon-sehr)
+# [서동원 (DongWon Sehr)](https://github.com/DongWon-Sehr/resume/edit/main/lang/ko_resume/README.md#%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
