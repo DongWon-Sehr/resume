@@ -5,12 +5,14 @@
 English Version
 </a>
 
-
 ### 궁금한게 많은 욕심 많은 개발자 🥸
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
+
+<br>
+<br>
 
 # 목차
 - [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#동료평가)
