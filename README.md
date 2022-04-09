@@ -194,7 +194,7 @@ Backend Developer, Data Engineer<br>
 # [Education](https://github.com/DongWon-Sehr/resume#Index)
 ### Thejoeun Academy
 - 2019.12 ~ 2020.06
-- Development & Analyze Bigdata with Python
+- Expert Course of Big Data Development & Analysis with Python
 ### Konkuk University
 - 2012.03 ~ 2019.08
 - BS in Aerospace Information Engineering
