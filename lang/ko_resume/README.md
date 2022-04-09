@@ -93,7 +93,7 @@ Software Engineer <br>
 - 프로젝트 기획
 - AWS EC2 인스턴스 서버 구축
 - FFmpeg 라이브러리와 Netflix VMAF 오픈소스를 활용해 Video QC 개발
-- 장애 알림 Telegram Bot 연동
+- 장애 알림 시스템 개발 (Telegram Bot 연동)
 - QC Job Queue 생성 / 결과 로그 저장 API 개발
 - 인스턴스 관리 및 Video QC 작업 모니터링 페이지 개발 (작업 큐 상태에 따라 가용 인스턴스 관리 자동화)
 ### Tech Stack
