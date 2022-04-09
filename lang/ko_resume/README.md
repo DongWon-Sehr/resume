@@ -110,7 +110,7 @@ Software Engineer <br>
 2021.03 ~ curent
 ### Description
 - 컨텐츠 업로드, 메타데이터 관리, 채널 관리, 스케줄 편성 등 다양한 기능을 제공하는 CMS(Content Management System) 를 in-house 로 개발하여 운영중입니다
-- 트러블슈팅, UI/UX 개선, 추가 요구 기능 구현 등과 같은 작업을 수행했습니다
+- 트러블슈팅, UI/UX 개선, 추가 요구 기능 개발 등과 같은 작업을 수행했습니다
 ### What did I do?
 - Library 삭제 기능 Work Flow 기획 및 개발 (Storage & Cost Save)
 - 삭제 이력 조회 페이지 개발
