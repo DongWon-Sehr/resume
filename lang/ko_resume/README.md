@@ -87,8 +87,8 @@ Software Engineer <br>
 ## Cloud Video QC
 2022.01 ~ 2022.03
 ### Description
-- 인코딩/트렌스코딩 된 비디오의 QC 프로세스를 구축한 프로젝트입니다.
-- AWS EC2 인스턴스로 서버를 구축하여 클라우드 환경에서 Video QC 작업을 진행합니다.
+- 인코딩/트렌스코딩 된 비디오의 QC 프로세스를 구축한 프로젝트입니다
+- AWS EC2 인스턴스로 서버를 구축하여 클라우드 환경에서 Video QC 작업을 진행합니다
 ### What did I do?
 - Work Flow 기획
 - AWS EC2 인스턴스 서버 구축
@@ -105,8 +105,8 @@ Software Engineer <br>
 ## CMS 고도화
 2021.03 ~ curent
 ### Description
-- 컨텐츠 업로드, 메타데이터 관리, 채널 관리, 스케줄 편성 등 다양한 기능을 제공하는 CMS(Content Management System) 를 in-house 로 개발하여 운영중입니다.
-- 트러블슈팅, UI/UX 개선, 추가 요구 기능 구현 등과 같은 작업을 수행했습니다.
+- 컨텐츠 업로드, 메타데이터 관리, 채널 관리, 스케줄 편성 등 다양한 기능을 제공하는 CMS(Content Management System) 를 in-house 로 개발하여 운영중입니다
+- 트러블슈팅, UI/UX 개선, 추가 요구 기능 구현 등과 같은 작업을 수행했습니다
 ### What did I do?
 - Library 삭제 기능 Work Flow 기획 및 개발 (Storage & Cost Save)
 - 삭제 이력 조회 페이지 개발
@@ -131,11 +131,11 @@ PM, Backend Developer, Data Engineer<br>
 ## 마리톡 챗봇 개발
 2020.04 ~ 2020.06
 ### Description
-- 서울 내 미용실 및 헤어스타일 추천 챗봇입니다.
-- 다음 세 가지 질문에 대한 답변을 제공합니다.
-1. 사용자 맞춤 미용실 추천
-2. 미용실 관련 문의사항에 대한 답변 제공
-3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
+- 서울 내 미용실 및 헤어스타일 추천 챗봇입니다
+- 다음 세 가지 질문에 대한 답변을 제공합니다
+> 1. 사용자 맞춤 미용실 추천
+> 2. 미용실 관련 문의사항에 대한 답변 제공
+> 3. 사용자가 보낸 이미지를 분석하여 해당 사진이 어떤 헤어스타일인지 답변 제공
 ### What did I do?
 - 프로젝트 매니징
 - 서버 구성 및 환경설정
@@ -151,9 +151,9 @@ PM, Backend Developer, Data Engineer<br>
 ## 카카오 헤어샵 모바일 스크래퍼
 2020.05 ~ 2020.05
 ### Description
-- 챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 개발한 프로그램입니다.
-- Android Emulator Nox와 Windows Batch Script를 이용해 모바일앱의 리뷰 데이터를 수집합니다.
-- ImageMagick, Charles Web Debugging Proxy Tool 등을 활용해 구현했습니다.
+- 챗봇 프로젝트 도중 모바일앱 데이터를 추가적으로 수집하고자 개발한 프로그램입니다
+- Android Emulator Nox와 Windows Batch Script를 이용해 모바일앱의 리뷰 데이터를 수집합니다
+- ImageMagick, Charles Web Debugging Proxy Tool 등을 활용해 구현했습니다
 ### What did I do?
 - 프로그램 개발
 ### Tech Stack
@@ -174,8 +174,8 @@ Backend Developer, Data Engineer<br>
 ## 스마트카 로그 분석
 2020.01 ~ 2020.02
 ### Description
-- 스마트카에서 발생하는 다양한 로그를 배치로 수집하여 기능별 상태점검을 수헹합니다.
-- 운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴 분석을 수행합니다.
+- 스마트카에서 발생하는 다양한 로그를 배치로 수집하여 기능별 상태점검을 수헹합니다
+- 운전자의 운행정보가 담긴 로그를 실시간 수집하여 주행패턴 분석을 수행합니다
 ### What did I do?
 - CentOS 7 서버 구축 (VirtualBox)
 - Cloudera Manger 를 통해 하둡 에코시스템을 구성
