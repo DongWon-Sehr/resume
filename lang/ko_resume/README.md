@@ -116,7 +116,8 @@ Software Engineer <br>
 - 삭제 이력 조회 페이지 개발
 - 공통 페이지 UI 개선
 - 채널 관리 페이지 검색필터 개발
-- 스케줄 다운로드 기능 구현 (Excel, PDF, HTM)
+- 스케줄 다운로드 기능 개발 (Excel, PDF, HTM)
+- 트러블슈팅
 ### Tech Stack
 - JavaScript, PHP
 
