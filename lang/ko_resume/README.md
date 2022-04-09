@@ -1,9 +1,13 @@
 <p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English Version</a></p>
 
 # 반갑습니다
-### 저는 서동원 (DongWon Sehr) 입니다.
-### 궁금한게 많은 욕심 많은 개발자 🥸
+### 제 이름은 서동원 (DongWon Sehr) 입니다.
+### 저는 _____ 입니다.
+- 궁금한게 많은 개발자 🥸
+- 커뮤니케이션에 진심인 개발자 🤝
+- 일과 삶이 모두 즐거운 개발자 🥳
 
+### 오픈 채널
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177
