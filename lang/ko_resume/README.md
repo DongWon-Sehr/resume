@@ -75,9 +75,9 @@ English Version
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
-<td sytle="width:30px;">
+<td valign=top sytle="width:30px;">
 
-NEW ID <br>
+### NEW ID <br>
 Software Engineer <br>
 2021.03 ~ current <br>
 
@@ -119,9 +119,9 @@ Software Engineer <br>
 </td>
 </tr>
 <tr>
-<td>
+<td valign=top>
 
-Side Project: Team Mary <br>
+### Side Project: Team Mary <br>
 PM, Backend Developer, Data Engineer<br>
 2020.04 ~ 2020.06 <br>
 
@@ -162,9 +162,9 @@ PM, Backend Developer, Data Engineer<br>
 </td>
 </tr>
 
-<td>
+<td valign=top>
 
-Side Project: 개인 프로젝트 <br>
+### Side Project: 개인 프로젝트 <br>
 Backend Developer, Data Engineer<br>
 2020.01 ~ 2020.02 <br>
 
