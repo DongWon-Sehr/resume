@@ -202,7 +202,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <hr>
 
-# DongWon Sehr (서동원))
+# [DongWon Sehr (서동원)](https://github.com/DongWon-Sehr/resume#dongwon-sehr-%EC%84%9C%EB%8F%99%EC%9B%90x)
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
