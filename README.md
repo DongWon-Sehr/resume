@@ -75,7 +75,7 @@
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
-<td sytle="width:30px;">
+<td valign=top sytle="width:50px;">
 
 ### NEW ID <br>
 Software Engineer <br>
@@ -162,7 +162,7 @@ PM, Backend Developer, Data Engineer<br>
 </td>
 </tr>
 
-<td>
+<td valign=top>
 
 ### Side Project: 개인 프로젝트 <br>
 Backend Developer, Data Engineer<br>
