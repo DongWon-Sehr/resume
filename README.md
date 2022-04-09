@@ -1,6 +1,6 @@
 # DongWon Sehr (서동원)
 
-<a href="https://github.com/DongWon-Sehr/resume/tree/main/resume_en">
+<a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume">
 한국어 버전
 </a>
 
@@ -11,7 +11,7 @@
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
-# 목차
+# Index
 - [Peer Review](https://github.com/DongWon-Sehr/resume#Peer-Review)
 - [Experience](https://github.com/DongWon-Sehr/resume#Experience)
 - [Projects](https://github.com/DongWon-Sehr/resume#Projects)
