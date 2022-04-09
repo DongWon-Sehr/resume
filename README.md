@@ -195,9 +195,9 @@ Backend Developer, Data Engineer<br>
 ### Thejoeun Academy
 - 2019.12 ~ 2020.06
 - Development & Analyze Bigdata with Python
-### Konkuk Univ. 
+### Konkuk University
 - 2012.03 ~ 2019.08
-- Bachelor's degree of science, Aerospace Infromation Engineering
+- BS in Aerospace Information Engineering
 
 <br>
 <hr>
