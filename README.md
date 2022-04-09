@@ -119,7 +119,7 @@ Software Engineer <br>
 </td>
 </tr>
 <tr>
-<td>
+<td valign=top>
 
 ### Side Project: Team Mary <br>
 PM, Backend Developer, Data Engineer<br>
