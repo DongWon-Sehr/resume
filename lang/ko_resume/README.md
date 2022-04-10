@@ -101,7 +101,7 @@ Software Engineer <br>
 - QC Job Queue 생성 / 결과 로그 저장 API 개발
 - 인스턴스 관리 및 Video QC 작업 모니터링 페이지 개발 (작업 큐 상태에 따라 가용 인스턴스 관리 자동화)
 ### Tech Stack
-- PHP, FFmpeg
+- PHP, FFmpeg, AWS
 
 <br>
 <br>
