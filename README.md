@@ -97,7 +97,7 @@ Software Engineer <br>
 - Developed APIs (QC Job Queue creator / Result Log saver)
 - Developed job and server instance monitoring system (Server auto scailing)
 ### Tech Stack
-- PHP, FFmpeg
+- PHP, FFmpeg, AWS
 
 <br>
 <br>
