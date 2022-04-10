@@ -212,3 +212,5 @@ Backend Developer, Data Engineer<br>
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
 - LinkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177
+
+<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English Version</a></p>
