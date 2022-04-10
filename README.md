@@ -22,7 +22,7 @@
 
 # [Peer Review](https://github.com/DongWon-Sehr/resume#Index)
 ### from. Jeongil Um (Software Engineer, NEW ID)
-> - Mr. Sehr has strong parts such as learning and applying new skills, understanding about buisness logic and collaborating with many departments, including dev team.
+> - Mr. Sehr has these strengths such as learning and applying new skills, understanding about buisness logic and collaborating with many departments, including dev team.
 > - He affected positive way to our team and company with his competency.
 > - In particular, his well-organized codes and documentations have helped improve the collaboration environment with other colleagues.
 
