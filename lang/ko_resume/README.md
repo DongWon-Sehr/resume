@@ -113,7 +113,7 @@ Software Engineer <br>
 - 고해상도 대상으로 HEVC 인코딩을 적용하여 동일 비트레이트 대비 낮은 용량을 학보
 ### What did I do?
 - HEVC/H.265 인코딩 개발
-- AVC/H.264 인코딩과 함께 진행해 Multi-Codec Master Playlist(Manifest) 인코딩 개발 지원
+- 저화질 AVC/H.264 인코딩을 동시 진행함으로써 Multi-Codec Master Playlist(Manifest) 인코딩 개발
 ### Tech Stack
 - PHP, FFmpeg
 
