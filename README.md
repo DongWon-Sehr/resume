@@ -98,6 +98,20 @@ Software Engineer <br>
 - Developed job and server instance monitoring system (Server auto scailing)
 ### Tech Stack
 - PHP, FFmpeg, AWS
+ 
+<br>
+<br>
+
+## Encoding Video with HEVC Codec
+2022.03 ~ 2022.04
+### Description
+- Encoding Video with HEVC/H.265 Codec
+- Secure low size compare to same bitrate AVC encoding video by applying HEVC encoding to high resolution
+### What did I do?
+- Developed HEVC/H.265 encoding
+- Developed multi-codec master playlist(manifest) encoding (High resolution : HEVC/H.265, low resolution : AVC/H.264)
+### Tech Stack
+- PHP, FFmpeg
 
 <br>
 <br>
