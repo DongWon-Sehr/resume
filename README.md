@@ -154,7 +154,7 @@ PM, Backend Developer, Data Engineer<br>
 - Project management
 - Setup server environment (CentOS 7 in GCP)
 - Scrapped hairshop review data
-- Pre-processed, classified, cleaned data and trained model
+- Pre-processed, classified, cleaned data and trained model (800,000+ review data, 720,000+ hair image data)
 - Integrated chatbot to KakaoTalk channel
 ### Tech Stack
 - Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
