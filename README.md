@@ -117,12 +117,12 @@ Software Engineer <br>
 <br>
     
 ## CMS MRO
-2021.03 ~ curent
+2021.03 ~ current
 ### Description
 - Developed and maintained in-house CMS(Content Management System) which provides features, including content uploading, metadata management, channel management, scheduling
 - Troubleshooting, improving UI/UX, development required features
 ### What did I do?
-- Developed delete library feature (Storage & Cost Save)
+- Developed delete library feature (30% of Storage & Cost Save)
 - Developed Deletion history page
 - Improved common page UI
 - Developed search filter of channel management page
