@@ -95,7 +95,7 @@ Software Engineer <br>
 - Developed video QC tool with the FFmpeg library and Netflix VMAF open source
 - Built failure notification system with Telegram Bot
 - Developed APIs (QC Job Queue creator / Result Log saver)
-- Developed QC server monitoring system (Servers are auto-scailed depends on job queue)
+- Developed QC server monitoring system (Auto-scailed server system depends on the number of job queue)
 ### Tech Stack
 - PHP, FFmpeg, AWS
  
