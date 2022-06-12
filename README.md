@@ -192,7 +192,7 @@ Backend Developer, Data Engineer<br>
 - Collect driver's status log in real-time and analyze driving pattern
 ### What did I do?
 - Setup server(CentOS 7) with VirtualBox
-- Setup Hardoop echo system with Cloudera Manger
+- Setup Hardoop echosystem with Cloudera Manager
 - Built data pipeline with batch data and real-time data
 - Analyze data from smart car
 ### Tech Stack
