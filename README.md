@@ -152,7 +152,7 @@ PM, Backend Developer, Data Engineer<br>
 3. Analyzes image and guesses hairstyle
 ### What did I do?
 - Project management
-- Setup server environment
+- Setup server environment (CentOS 7 in GCP)
 - Scrapped hairshop review data
 - Pre-processed, classified, cleaned data and trained model
 - Integrated chatbot to KakaoTalk channel
