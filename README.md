@@ -106,7 +106,7 @@ Software Engineer <br>
 2022.03 ~ 2022.04
 ### Description
 - Encoding Video with HEVC/H.265 Codec
-- Secure low size compare to same bitrate AVC encoding video by applying HEVC encoding to high resolution
+- Secure lower size compare to same bitrate AVC encoding video by applying HEVC encoding to high resolution
 ### What did I do?
 - Developed HEVC/H.265 encoding
 - Developed multi-codec master playlist(manifest) encoding (High resolution : HEVC/H.265, low resolution : AVC/H.264)
