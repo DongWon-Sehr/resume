@@ -65,7 +65,7 @@
 - 2020.12 ~ 2021.03
 
 ## Social Activities
-[Bookclub CBGD](https://www.instagram.com/bookclub_cbgd)
+[Book Club CBGD](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ Current
 
 <br>
