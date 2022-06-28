@@ -90,10 +90,10 @@ Software Engineer <br>
 - Renovated in-house CMS solution for public open
 ### What did I do?
 - Designed directory structure
-- Designed user group & auth
-- Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
+- Designed user group & auth structure
 - Refactored legacy source code
 - Optimized API (reduced response time 70% off)
+- Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
 ### Tech Stack
 - JavaScript, PHP, MySQL
  
