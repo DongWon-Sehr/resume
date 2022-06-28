@@ -88,6 +88,24 @@ Software Engineer <br>
 </td>
 <td>
 
+
+## CMS TFT
+2022.05 ~ Current
+### Description
+- 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
+### What did I do?
+- 디렉토리 구조 설계
+- 유저 그룹 및 권한 체계 설계
+- 레거시 코드 리팩토링
+- API 성능 최적화 (응답 속도 70% 개선)
+- 인스턴스 관리 및 Video QC 작업 모니터링 페이지 개발 (작업 큐 상태에 따라 가용 인스턴스 관리 자동화)
+- 각종 문서 초안 작성 (요구사항정의서, 기술명세서, IA, 기능 테스트 등..)
+### Tech Stack
+- JavaScript, PHP, MySQL
+
+<br>
+<br>
+ 
 ## Cloud Video QC
 2022.01 ~ 2022.03
 ### Description
@@ -133,7 +151,7 @@ Software Engineer <br>
 - 스케줄 다운로드 기능 개발 (Excel, PDF, HTM)
 - 트러블슈팅
 ### Tech Stack
-- JavaScript, PHP
+- JavaScript, PHP, MySQL
 
 </td>
 </tr>
@@ -214,6 +232,9 @@ Backend Developer, Data Engineer<br>
 ### 더조은아카데미
 - 2019.12 ~ 2020.06
 - 파이썬 빅테이터 개발,분석 전문가 과정 수료
+### University of Washington
+- 2017.06 ~ 2017.12
+- 어학연수 (Seattle, US)
 ### 건국대학교 
 - 2012.03 ~ 2019.08
 - 항공우주정보시스템공학과 졸업
