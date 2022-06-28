@@ -152,7 +152,7 @@ Software Engineer <br>
 <td valign=top>
 
 ### Side Project: Team Mary <br>
-PM, Backend Developer, Data Engineer<br>
+PM, Backend Developer, ML Engineer<br>
 2020.04 ~ 2020.06 <br>
 
 </td>
