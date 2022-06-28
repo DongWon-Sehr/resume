@@ -87,7 +87,24 @@ Software Engineer <br>
 ## Renewal in-house CMS
 2022.05 ~ Current
 ### Description
-- Renovated in-house CMS for expanding to public
+- Renovated in-house CMS solution for public open
+### What did I do?
+- Designed directory structure
+- Designed user group & auth
+- Improved response time
+- Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
+- Refactored legacy FE, BE source code
+- Optimized API (reduced response time 70% off)
+### Tech Stack
+- JavaScript, PHP, MySQL
+ 
+<br>
+<br>
+
+## Cloud Video QC
+2022.01 ~ 2022.03
+### Description
+- Developed Encoded/transcoded video's QC process
 - Viedo QC is processed in cloud environment which setup as AWS EC2 instances
 ### What did I do?
 - Designed Work Flow
@@ -98,23 +115,6 @@ Software Engineer <br>
 - Developed QC server monitoring system (Auto-scailed server system depends on the number of job queue)
 ### Tech Stack
 - PHP, FFmpeg, AWS
- 
-<br>
-<br>
-
-## Cloud Video QC
-2022.01 ~ 2022.03
-### Description
-- Developed Encoded/transcoded video's QC process
-### What did I do?
-- Designed directory structure
-- Designed user group & auth
-- Improved response time
-- Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
-- Refactored legacy FE, BE source code
-- Optimized API (reduced response time 70% off)
-### Tech Stack
-- JavaScript, PHP, MySQL
  
 <br>
 <br>
