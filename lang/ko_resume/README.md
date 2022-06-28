@@ -233,7 +233,7 @@ Backend Developer, Data Engineer<br>
 - 파이썬 빅테이터 개발,분석 전문가 과정 수료
 ### University of Washington
 - 2017.06 ~ 2017.12
-- 어학연수 (Seattle(WA), US)
+- 어학연수 - Seattle(WA), US
 ### 건국대학교 
 - 2012.03 ~ 2019.08
 - 항공우주정보시스템공학과 졸업
