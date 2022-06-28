@@ -89,7 +89,7 @@ Software Engineer <br>
 <td>
 
 
-## CMS TFT
+## CMS  TFT
 2022.05 ~ Current
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
@@ -98,7 +98,6 @@ Software Engineer <br>
 - 유저 그룹 및 권한 체계 설계
 - 레거시 코드 리팩토링
 - API 성능 최적화 (응답 속도 70% 개선)
-- 인스턴스 관리 및 Video QC 작업 모니터링 페이지 개발 (작업 큐 상태에 따라 가용 인스턴스 관리 자동화)
 - 각종 문서 초안 작성 (요구사항정의서, 기술명세서, IA, 기능 테스트 등..)
 ### Tech Stack
 - JavaScript, PHP, MySQL
