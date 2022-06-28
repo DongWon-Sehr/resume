@@ -91,9 +91,8 @@ Software Engineer <br>
 ### What did I do?
 - Designed directory structure
 - Designed user group & auth
-- Improved response time
 - Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
-- Refactored legacy FE, BE source code
+- Refactored legacy source code
 - Optimized API (reduced response time 70% off)
 ### Tech Stack
 - JavaScript, PHP, MySQL
