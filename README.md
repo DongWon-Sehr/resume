@@ -84,6 +84,21 @@ Software Engineer <br>
 </td>
 <td>
 
+## API Development
+2022.01 ~ current
+### Description
+- Develop API for scheduling, feeding, EPG transferring, etc ..
+### What did I do?
+- Develop LG Channels schedule APIs (EPG transferring)
+- Optimize in-house CMS schedule API
+- Develop feed generation APIs
+- Build a relay server & Develop realy API
+### Tech Stack
+- PHP, MySQL
+ 
+<br>
+<br>
+
 ## Renewal in-house CMS
 2022.05 ~ 2022.07
 ### Description

@@ -88,8 +88,22 @@ Software Engineer <br>
 </td>
 <td>
 
+## API 개발
+2022.01 ~ current
+### Description
+- API 개발 (스케줄링, 피드 생성, EPG 전송, etc ..)
+### What did I do?
+- LG Channels 스케줄 APIs (EPG 전송)
+- in-house CMS 스케줄 API 최적화
+- 피드 생성 APIs 개발
+- 릴레이 서버 구축 & 릴레이 API 개발
+### Tech Stack
+- PHP, MySQL
+ 
+<br>
+<br>
 
-## CMS  TFT
+## CMS TFT
 2022.05 ~ 2022.07
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
