@@ -104,7 +104,7 @@ Software Engineer <br>
 ### Description
 - Renovated in-house CMS solution for public open
 ### What did I do?
-- Designed directory structure
+- Designed file directory structure
 - Designed user group & auth structure
 - Refactored legacy source code
 - Optimized API (reduced response time 70% off)

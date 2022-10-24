@@ -93,7 +93,7 @@ Software Engineer <br>
 ### Description
 - API 개발 (스케줄링, 피드 생성, EPG 전송, etc ..)
 ### What did I do?
-- LG Channels 스케줄 APIs (EPG 전송)
+- LG Channels 스케줄 APIs 개발 (EPG 전송)
 - in-house CMS 스케줄 API 최적화
 - 피드 생성 APIs 개발
 - 릴레이 서버 구축 & 릴레이 API 개발
@@ -103,12 +103,12 @@ Software Engineer <br>
 <br>
 <br>
 
-## CMS TFT
+## CMS 리뉴얼 TFT
 2022.05 ~ 2022.07
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
 ### What did I do?
-- 디렉토리 구조 설계
+- 파일 디렉토리 구조 설계
 - 유저 그룹 및 권한 체계 설계
 - 레거시 코드 리팩토링
 - API 성능 최적화 (응답 속도 70% 개선)
@@ -126,7 +126,7 @@ Software Engineer <br>
 - AWS EC2 인스턴스로 서버를 구축하여 클라우드 환경에서 Video QC 작업을 진행합니다
 ### What did I do?
 - 프로젝트 기획
-- AWS EC2 인스턴스 서버 구축
+- AWS EC2 인스턴스 서버 환경 구축
 - FFmpeg 라이브러리와 Netflix VMAF 오픈소스를 활용해 Video QC 개발
 - 장애 알림 시스템 개발 (Telegram Bot 연동)
 - QC Job Queue 생성 / 결과 로그 저장 API 개발
