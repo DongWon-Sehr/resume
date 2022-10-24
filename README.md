@@ -92,7 +92,7 @@ Software Engineer <br>
 - Develop LG Channels schedule APIs (EPG transferring)
 - Optimize in-house CMS schedule API
 - Develop feed generation APIs
-- Build a relay server & Develop realy API
+- Build a relay server & Develop relay API
 ### Tech Stack
 - PHP, MySQL
  
