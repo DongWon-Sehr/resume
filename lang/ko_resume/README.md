@@ -90,7 +90,7 @@ Software Engineer <br>
 
 
 ## CMS  TFT
-2022.05 ~ Current
+2022.05 ~ 2022.07
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
 ### What did I do?

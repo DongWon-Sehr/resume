@@ -85,7 +85,7 @@ Software Engineer <br>
 <td>
 
 ## Renewal in-house CMS
-2022.05 ~ Current
+2022.05 ~ 2022.07
 ### Description
 - Renovated in-house CMS solution for public open
 ### What did I do?
