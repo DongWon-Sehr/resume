@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English Version</a></p>
+<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English</a> | 한국어</p>
 
 # 반갑습니다
 ### 제 이름은 서동원 (DongWon Sehr) 입니다.
