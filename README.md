@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume">한국어 버전</a></p>
+<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume">한국어</a></p>
 
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### I'm DongWon Sehr (서동원).
