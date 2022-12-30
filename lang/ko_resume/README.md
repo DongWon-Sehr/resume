@@ -89,7 +89,7 @@ Software Engineer <br>
 <td>
 
 ## API 개발
-2022.01 ~ current
+2021.12 ~ current
 ### Description
 - API 개발 (스케줄링, 피드 생성, EPG 전송, etc ..)
 ### What did I do?
