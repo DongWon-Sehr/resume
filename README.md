@@ -85,7 +85,7 @@ Software Engineer <br>
 <td>
 
 ## API Development
-2022.01 ~ current
+2021.12 ~ current
 ### Description
 - Develop API for scheduling, feeding, EPG transferring, etc ..
 ### What did I do?
