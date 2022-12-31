@@ -261,4 +261,4 @@ Backend Developer, Data Engineer<br>
 - <img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"> https://github.com/DongWon-Sehr
 - <img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"> https://www.linkedin.com/in/dongwon-sehr-294679177
 
-<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English Version</a></p>
+<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English</a> | 한국어</p>
