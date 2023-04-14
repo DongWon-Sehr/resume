@@ -8,9 +8,9 @@
 - 일과 삶이 모두 즐거운 개발자 🥳
 
 ### 오픈 채널
-- <img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="LinkedIn"> dongwon.sehr@gmail.com
-- <img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"> https://github.com/DongWon-Sehr
-- <img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"> https://www.linkedin.com/in/dongwon-sehr-294679177
+- <a href="mailto:dongwon.sehr@gmail.com"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
+- <a href="https://github.com/DongWon-Sehr"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
+- <a href="https://www.linkedin.com/in/dongwon-sehr-294679177"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"></a> https://www.linkedin.com/in/dongwon-sehr-294679177
 
 <br>
 <br>
@@ -257,8 +257,8 @@ Backend Developer, Data Engineer<br>
 
 # [서동원 (DongWon Sehr)](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
-- <img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="LinkedIn"> dongwon.sehr@gmail.com
-- <img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"> https://github.com/DongWon-Sehr
-- <img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"> https://www.linkedin.com/in/dongwon-sehr-294679177
+- <a href="mailto:dongwon.sehr@gmail.com"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
+- <a href="https://github.com/DongWon-Sehr"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
+- <a href="https://www.linkedin.com/in/dongwon-sehr-294679177"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"></a> https://www.linkedin.com/in/dongwon-sehr-294679177
 
 <p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English</a> | 한국어</p>
