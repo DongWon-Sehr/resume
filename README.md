@@ -251,6 +251,6 @@ Backend Developer, Data Engineer<br>
 
 - [<img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email">](mailto:dongwon.sehr@gmail.com){:target="_blank"} dongwon.sehr@gmail.com
 - [<img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub">](https://github.com/DongWon-Sehr){:target="_blank"} https://github.com/DongWon-Sehr
-- [<img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn">](https://www.linkedin.com/in/dongwon-sehr-294679177){:target="_blank"} https://www.linkedin.com/in/dongwon-sehr-294679177
+- [![LinkedIn](https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue)](https://www.linkedin.com/in/dongwon-sehr-294679177){:target="_blank"} https://www.linkedin.com/in/dongwon-sehr-294679177
 
 <p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume">한국어</a></p>
