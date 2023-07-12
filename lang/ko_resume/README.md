@@ -103,7 +103,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## CMS 리뉴얼 TFT
+## CMS 리뉴얼
 2022.05 ~ 2022.07
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
