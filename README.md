@@ -12,15 +12,15 @@
 <br>
 
 # Index
-- [Peer Review](https://github.com/DongWon-Sehr/resume/tree/main#Peer-Review)
-- [Experience](https://github.com/DongWon-Sehr/resume/tree/main#Experience)
-- [Projects](https://github.com/DongWon-Sehr/resume/tree/main#Projects)
-- [Education](https://github.com/DongWon-Sehr/resume/tree/main#Education)
+- [Peer Review](https://github.com/DongWon-Sehr/resume/tree/main#peer-review)
+- [Experience](https://github.com/DongWon-Sehr/resume/tree/main#experience)
+- [Projects](https://github.com/DongWon-Sehr/resume/tree/main#projects)
+- [Education](https://github.com/DongWon-Sehr/resume/tree/main#education)
 
 <br>
 <br>
 
-# [Peer Review](https://github.com/DongWon-Sehr/resume/tree/main#Index)
+# [Peer Review](https://github.com/DongWon-Sehr/resume/tree/main#index)
 ### from. Jeongil Um (Software Engineer, NEW ID)
 > - Mr. Sehr has these strengths such as learning and applying new skills, understanding about buisness logic and collaborating with many departments, including dev team.
 > - He affected positive way to our team and company with his competency.
@@ -56,7 +56,7 @@
 <br>
 <br>
 
-# [Experience](https://github.com/DongWon-Sehr/resume/tree/main#Index)
+# [Experience](https://github.com/DongWon-Sehr/resume/tree/main#index)
 ## Professional Experience
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ Current
@@ -71,7 +71,7 @@
 <br>
 <br>
 
-# [Projects](https://github.com/DongWon-Sehr/resume/tree/main#Index)
+# [Projects](https://github.com/DongWon-Sehr/resume/tree/main#index)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -275,7 +275,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [Education](https://github.com/DongWon-Sehr/resume/tree/main#Index)
+# [Education](https://github.com/DongWon-Sehr/resume/tree/main#index)
 ### Thejoeun Academy
 - 2019.12 ~ 2020.06
 - Expert Course of Big Data Development & Analysis with Python
