@@ -79,13 +79,27 @@
 
 ### NEW ID <br>
 Software Engineer <br>
-2021.03 ~ current <br>
+2021.03 ~ Current <br>
 
 </td>
 <td>
 
-## API Development
-2021.12 ~ current
+## [NEW FEATURE] VOD Management System Development (CMS)
+2023.07 ~ Current
+### Description
+- Develop new feature for managing VOD service 
+### What did I do?
+- Design DB table scheme
+- Design user workflow
+- Develop FE / BE
+### Tech Stack
+- PHP, JavaScript, MySQL, Redis
+ 
+<br>
+<br>
+
+## [MRO / NEW FEATURE] API Development
+2021.12 ~ Current
 ### Description
 - Develop API for scheduling, feeding, EPG transferring, etc ..
 ### What did I do?
@@ -94,12 +108,12 @@ Software Engineer <br>
 - Develop feed generation APIs
 - Build a relay server & Develop relay API
 ### Tech Stack
-- PHP, MySQL
+- PHP, MySQL, Redis
  
 <br>
 <br>
 
-## Renewal in-house CMS
+## [Refactoring] Renewal in-house CMS
 2022.05 ~ 2022.07
 ### Description
 - Renovated in-house CMS solution for public open
@@ -110,12 +124,12 @@ Software Engineer <br>
 - Optimized API (reduced response time 70% off)
 - Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
 ### Tech Stack
-- JavaScript, PHP, MySQL
+- JavaScript, PHP, HTML, MySQL, Redis
  
 <br>
 <br>
 
-## Cloud Video QC
+## [NEW FEATURE] Cloud Video QC
 2022.01 ~ 2022.03
 ### Description
 - Developed Encoded/transcoded video's QC process
@@ -128,12 +142,12 @@ Software Engineer <br>
 - Developed APIs (QC Job Queue creator / Result Log saver)
 - Developed QC server monitoring system (Auto-scailed server system depends on the number of job queue)
 ### Tech Stack
-- PHP, FFmpeg, AWS
+- PHP, MySQL, AWS EC2/S3, FFmpeg, VMAF
  
 <br>
 <br>
 
-## Encoding Video with HEVC Codec
+## [NEW FEATURE] Encoding Video with HEVC Codec
 2022.03 ~ 2022.04
 ### Description
 - Encoding Video with HEVC/H.265 Codec
@@ -142,13 +156,13 @@ Software Engineer <br>
 - Developed HEVC/H.265 encoding
 - Developed multi-codec master playlist(manifest) encoding (High resolution : HEVC/H.265, low resolution : AVC/H.264)
 ### Tech Stack
-- PHP, FFmpeg
+- PHP, MySQL, FFmpeg
 
 <br>
 <br>
     
-## CMS MRO
-2021.03 ~ current
+## [MRO] CMS MRO
+2021.03 ~ Current
 ### Description
 - Developed and maintained in-house CMS(Content Management System) which provides features, including content uploading, metadata management, channel management, scheduling
 - Troubleshooting, improving UI/UX, development required features
@@ -159,7 +173,32 @@ Software Engineer <br>
 - Developed search filter of channel management page
 - Developed schedule download feature (Excel, PDF, HTM)
 ### Tech Stack
-- JavaScript, PHP
+- JavaScript, PHP, HTML, MySQL, Redis
+
+</td>
+</tr>
+<tr>
+<td valign=top>
+
+### Side Project: MIAF <br>
+Backend Developer<br>
+2023.03 ~ Current <br>
+
+</td>
+<td>
+
+## LIKE LIKE (Hobby Activity Archiving Service)
+2023.03 ~ Current
+### Description
+- Archive your hobby like as your career!
+- It's still working on
+### What did I do?
+- Design Server Architecture
+- Design DB table scheme
+- Setup server environment (Ubuntu in AWS)
+- Develop Backend API
+### Tech Stack
+- Java(SpringBoot), AWS, Linux(Ubuntu), MySQL, Redis
 
 </td>
 </tr>
@@ -206,7 +245,7 @@ PM, Backend Developer, ML Engineer<br>
 
 </td>
 </tr>
-
+<tr>
 <td valign=top>
 
 ### Side Project: Personal Study <br>

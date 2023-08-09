@@ -83,13 +83,27 @@
 
 ### NEW ID <br>
 Software Engineer <br>
-2021.03 ~ current <br>
+2021.03 ~ Current <br>
 
 </td>
 <td>
 
-## API 개발
-2021.12 ~ current
+## [신규 기능] VOD 관리 시스템 (CMS) 개발
+2023.07 ~ Current
+### Description
+- VOD 를 통합 관리 및 서비스하기 위한 시스템 개발
+### What did I do?
+- DB 설계
+- 유저 워크플로우 설계
+- FE/BE 개발
+### Tech Stack
+- PHP, JavaScript, MySQL, Redis
+ 
+<br>
+<br>
+
+## [유지보수 / 신규기능] API 개발
+2021.12 ~ Current
 ### Description
 - API 개발 (스케줄링, 피드 생성, EPG 전송, etc ..)
 ### What did I do?
@@ -98,12 +112,12 @@ Software Engineer <br>
 - 피드 생성 APIs 개발
 - 릴레이 서버 구축 & 릴레이 API 개발
 ### Tech Stack
-- PHP, MySQL
+- PHP, MySQL, Redis
  
 <br>
 <br>
 
-## CMS 리뉴얼
+## [리팩토링] CMS 리뉴얼 TFT
 2022.05 ~ 2022.07
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
@@ -114,12 +128,12 @@ Software Engineer <br>
 - API 성능 최적화 (응답 속도 70% 개선)
 - 각종 문서 초안 작성 (요구사항정의서, 기술명세서, IA, 기능 테스트 등..)
 ### Tech Stack
-- JavaScript, PHP, MySQL
+- JavaScript, PHP, HTML, MySQL, Redis
 
 <br>
 <br>
  
-## Cloud Video QC
+## [신규 기능] Cloud Video QC
 2022.01 ~ 2022.03
 ### Description
 - 인코딩/트렌스코딩 된 비디오의 QC 프로세스를 구축한 프로젝트입니다
@@ -132,12 +146,12 @@ Software Engineer <br>
 - QC Job Queue 생성 / 결과 로그 저장 API 개발
 - 인스턴스 관리 및 Video QC 작업 모니터링 페이지 개발 (작업 큐 상태에 따라 가용 인스턴스 관리 자동화)
 ### Tech Stack
-- PHP, FFmpeg, AWS
+- PHP, MySQL, AWS EC2/S3, FFmpeg, VMAF
 
 <br>
 <br>
  
-## Encoding Video with HEVC Codec
+## [신규 기능] Encoding Video with HEVC Codec
 2022.03 ~ 2022.04
 ### Description
 - HEVC/H.265 인코딩 작업 
@@ -146,12 +160,12 @@ Software Engineer <br>
 - HEVC/H.265 인코딩 개발
 - 저화질 AVC/H.264 인코딩을 동시 진행함으로써 Multi-Codec Master Playlist(Manifest) 인코딩 개발
 ### Tech Stack
-- PHP, FFmpeg
+- PHP, MySQL, FFmpeg
 
 <br>
 <br>
     
-## CMS 고도화
+## [유지 보수] CMS 고도화
 2021.03 ~ curent
 ### Description
 - 컨텐츠 업로드, 메타데이터 관리, 채널 관리, 스케줄 편성 등 다양한 기능을 제공하는 CMS(Content Management System) 를 in-house 로 개발하여 운영중입니다
@@ -164,7 +178,32 @@ Software Engineer <br>
 - 스케줄 다운로드 기능 개발 (Excel, PDF, HTM)
 - 트러블슈팅
 ### Tech Stack
-- JavaScript, PHP, MySQL
+- JavaScript, PHP, HTML, MySQL, Redis
+
+</td>
+</tr>
+<tr>
+<td valign=top>
+
+### Side Project: MIAF <br>
+Backend Developer<br>
+2023.03 ~ Current <br>
+
+</td>
+<td>
+
+## LIKE LIKE (취미 활동 기록 서비스)
+2023.03 ~ Current
+### Description
+- 커리어를 관리하듯 취미를 관리하자!
+- 현재 개발 진행 중
+### What did I do?
+- 서버 아키텍처 설계
+- DB 테이블 설계
+- 서버 구성 및 환경설정 (Ubuntu in AWS)
+- API 개발
+### Tech Stack
+- Java(SpringBoot), AWS, Linux(Ubuntu), MySQL, Redis
 
 </td>
 </tr>
@@ -211,7 +250,7 @@ PM, Backend Developer, ML Engineer<br>
 
 </td>
 </tr>
-
+<tr>
 <td valign=top>
 
 ### Side Project: 개인 프로젝트 <br>
