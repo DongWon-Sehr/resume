@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English</a> | 한국어</p>
+<p align="right"><a href="https://github.com/DongWon-Sehr/resume/en">English</a> | 한국어</p>
 
 # 반갑습니다
 ### 제 이름은 서동원 (DongWon Sehr) 입니다.
@@ -16,15 +16,15 @@
 <br>
 
 # 목차
-- [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#동료평가)
-- [경력사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#경력)
-- [프로젝트](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#프로젝트)
-- [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#교육사항)
+- [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#동료평가)
+- [경력사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#경력사항)
+- [프로젝트](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#프로젝트)
+- [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#교육사항)
 
 <br>
 <br>
 
-# [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
+# [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차)
 ### from. 엄정일 (Software Engineer, 뉴아이디)
 > - 서동원 님은 새로운 기술에 대한 습득 및 활용, 비즈니스 로직에 대한 이해, 개발팀을 포함한 다양한 팀과의 훌륭한 협업에 있어서 장점을 가지는 개발자입니다.
 > - 이러한 그의 능력들은 언제나 팀과 회사가 가고자 하는 방향에 좋은 영향을 주었습니다.
@@ -60,7 +60,7 @@
 <br>
 <br>
 
-# [경력사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
+# [경력사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차)
 ## 회사
 [뉴아이디](https://www.its-newid.com/)
 - 2021.03 ~ 현재
@@ -75,7 +75,7 @@
 <br>
 <br>
 
-# [프로젝트](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
+# [프로젝트](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -280,7 +280,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#목차)
+# [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차)
 ### 더조은아카데미
 - 2019.12 ~ 2020.06
 - 파이썬 빅테이터 개발,분석 전문가 과정 수료
@@ -294,10 +294,10 @@ Backend Developer, Data Engineer<br>
 <br>
 <hr>
 
-# [서동원 (DongWon Sehr)](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko_resume#%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4)
+# [서동원 (DongWon Sehr)](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 - <a href="mailto:dongwon.sehr@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
 - <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
 - <a href="https://www.linkedin.com/in/dongwon-sehr-294679177" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"></a> https://www.linkedin.com/in/dongwon-sehr-294679177
 
-<p align="right"><a href="https://github.com/DongWon-Sehr/resume/">English</a> | 한국어</p>
+<p align="right"><a href="https://github.com/DongWon-Sehr/resume/en">English</a> | 한국어</p>
