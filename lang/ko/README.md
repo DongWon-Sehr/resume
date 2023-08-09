@@ -16,15 +16,15 @@
 <br>
 
 # 목차
-- [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#동료평가)
-- [경력사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#경력사항)
+- [동료평가](https://github.com/DongWon-Sehr/resume/lang/ko#동료평가)
+- [경력사항](https://github.com/DongWon-Sehr/resume/lang/ko#경력사항)
 - [프로젝트](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#프로젝트)
 - [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#교육사항)
 
 <br>
 <br>
 
-# [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차)
+# [동료평가](https://github.com/DongWon-Sehr/resume/lang/ko#목차)
 ### from. 엄정일 (Software Engineer, 뉴아이디)
 > - 서동원 님은 새로운 기술에 대한 습득 및 활용, 비즈니스 로직에 대한 이해, 개발팀을 포함한 다양한 팀과의 훌륭한 협업에 있어서 장점을 가지는 개발자입니다.
 > - 이러한 그의 능력들은 언제나 팀과 회사가 가고자 하는 방향에 좋은 영향을 주었습니다.
