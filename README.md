@@ -1,4 +1,4 @@
-<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko">한국어</a></p>
+<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#반갑습니다">한국어</a></p>
 
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### I'm DongWon Sehr (서동원).
@@ -292,4 +292,4 @@ Backend Developer, Data Engineer<br>
 - <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
 - <a href="https://www.linkedin.com/in/dongwon-sehr-294679177" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"></a> https://www.linkedin.com/in/dongwon-sehr-294679177
 
-<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko">한국어</a></p>
+<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#반갑습니다">한국어</a></p>
