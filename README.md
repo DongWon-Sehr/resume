@@ -12,15 +12,15 @@
 <br>
 
 # Index
-- [Peer Review](https://github.com/DongWon-Sehr/resume/en#Peer-Review)
-- [Experience](https://github.com/DongWon-Sehr/resume/en#Experience)
-- [Projects](https://github.com/DongWon-Sehr/resume/en#Projects)
-- [Education](https://github.com/DongWon-Sehr/resume/en#Education)
+- [Peer Review](https://github.com/DongWon-Sehr/resume/README.md#Peer-Review)
+- [Experience](https://github.com/DongWon-Sehr/resume/README.md#Experience)
+- [Projects](https://github.com/DongWon-Sehr/resume/README.md#Projects)
+- [Education](https://github.com/DongWon-Sehr/resume/README.md#Education)
 
 <br>
 <br>
 
-# [Peer Review](https://github.com/DongWon-Sehr/resume/en#Index)
+# [Peer Review](https://github.com/DongWon-Sehr/resume/README.md#Index)
 ### from. Jeongil Um (Software Engineer, NEW ID)
 > - Mr. Sehr has these strengths such as learning and applying new skills, understanding about buisness logic and collaborating with many departments, including dev team.
 > - He affected positive way to our team and company with his competency.
@@ -56,7 +56,7 @@
 <br>
 <br>
 
-# [Experience](https://github.com/DongWon-Sehr/resume/en#Index)
+# [Experience](https://github.com/DongWon-Sehr/resume/README.md#Index)
 ## Professional Experience
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ Current
@@ -71,7 +71,7 @@
 <br>
 <br>
 
-# [Projects](https://github.com/DongWon-Sehr/resume/en#Index)
+# [Projects](https://github.com/DongWon-Sehr/resume/README.md#Index)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -275,7 +275,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [Education](https://github.com/DongWon-Sehr/resume/en#Index)
+# [Education](https://github.com/DongWon-Sehr/resume/README.md#Index)
 ### Thejoeun Academy
 - 2019.12 ~ 2020.06
 - Expert Course of Big Data Development & Analysis with Python
@@ -286,7 +286,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <hr>
 
-# [DongWon Sehr (서동원)](https://github.com/DongWon-Sehr/resume/en#hi-)
+# [DongWon Sehr (서동원)](https://github.com/DongWon-Sehr/resume/README.md#hi-)
 
 - <a href="mailto:dongwon.sehr@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
 - <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
