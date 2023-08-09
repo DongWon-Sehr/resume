@@ -1,4 +1,4 @@
-<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#반갑습니다">한국어</a></p>
+<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/lang/ko#반갑습니다">한국어</a></p>
 
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### I'm DongWon Sehr (서동원).
@@ -12,15 +12,15 @@
 <br>
 
 # Index
-- [Peer Review](https://github.com/DongWon-Sehr/resume/tree/main#peer-review)
-- [Experience](https://github.com/DongWon-Sehr/resume/tree/main#experience)
-- [Projects](https://github.com/DongWon-Sehr/resume/tree/main#projects)
-- [Education](https://github.com/DongWon-Sehr/resume/tree/main#education)
+- [Peer Review](https://github.com/DongWon-Sehr/resume#peer-review)
+- [Experience](https://github.com/DongWon-Sehr/resume#experience)
+- [Projects](https://github.com/DongWon-Sehr/resume#projects)
+- [Education](https://github.com/DongWon-Sehr/resume#education)
 
 <br>
 <br>
 
-# [Peer Review](https://github.com/DongWon-Sehr/resume/tree/main#index)
+# [Peer Review](https://github.com/DongWon-Sehr/resume#index)
 ### from. Jeongil Um (Software Engineer, NEW ID)
 > - Mr. Sehr has these strengths such as learning and applying new skills, understanding about buisness logic and collaborating with many departments, including dev team.
 > - He affected positive way to our team and company with his competency.
@@ -56,7 +56,7 @@
 <br>
 <br>
 
-# [Experience](https://github.com/DongWon-Sehr/resume/tree/main#index)
+# [Experience](https://github.com/DongWon-Sehr/resume#index)
 ## Professional Experience
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ Current
@@ -71,7 +71,7 @@
 <br>
 <br>
 
-# [Projects](https://github.com/DongWon-Sehr/resume/tree/main#index)
+# [Projects](https://github.com/DongWon-Sehr/resume#index)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -275,7 +275,7 @@ Backend Developer, Data Engineer<br>
 <br>
 <br>
 
-# [Education](https://github.com/DongWon-Sehr/resume/tree/main#index)
+# [Education](https://github.com/DongWon-Sehr/resume#index)
 ### Thejoeun Academy
 - 2019.12 ~ 2020.06
 - Expert Course of Big Data Development & Analysis with Python
@@ -286,10 +286,10 @@ Backend Developer, Data Engineer<br>
 <br>
 <hr>
 
-# [DongWon Sehr (서동원)](https://github.com/DongWon-Sehr/resume/tree/main#hi-)
+# [DongWon Sehr (서동원)](https://github.com/DongWon-Sehr/resume#hi-)
 
 - <a href="mailto:dongwon.sehr@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
 - <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
 - <a href="https://www.linkedin.com/in/dongwon-sehr-294679177" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"></a> https://www.linkedin.com/in/dongwon-sehr-294679177
 
-<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#반갑습니다">한국어</a></p>
+<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/lang/ko#반갑습니다">한국어</a></p>
