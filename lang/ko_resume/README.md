@@ -88,7 +88,7 @@ Software Engineer <br>
 </td>
 <td>
 
-## [신규 기능] VOD 관리 시스템 (CMS) 개발
+## [신규 기능]<br>VOD 관리 시스템 (CMS) 개발
 2023.07 ~ Current
 ### Description
 - VOD 를 통합 관리 및 서비스하기 위한 시스템 개발
@@ -102,7 +102,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## [유지보수 / 신규기능] API 개발
+## [유지보수 / 신규기능]<br>API 개발
 2021.12 ~ Current
 ### Description
 - API 개발 (스케줄링, 피드 생성, EPG 전송, etc ..)
@@ -117,7 +117,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## [리팩토링] CMS 리뉴얼 TFT
+## [리팩토링]<br>CMS 리뉴얼 TFT
 2022.05 ~ 2022.07
 ### Description
 - 내부용으로 사용중인 in-house CMS 솔루션을 외부 서비스로 확장하기 위한 프로젝트
@@ -133,7 +133,7 @@ Software Engineer <br>
 <br>
 <br>
  
-## [신규 기능] Cloud Video QC
+## [신규 기능]<br>Cloud Video QC
 2022.01 ~ 2022.03
 ### Description
 - 인코딩/트렌스코딩 된 비디오의 QC 프로세스를 구축한 프로젝트입니다
@@ -151,7 +151,7 @@ Software Engineer <br>
 <br>
 <br>
  
-## [신규 기능] Encoding Video with HEVC Codec
+## [신규 기능]<br>Encoding Video with HEVC Codec
 2022.03 ~ 2022.04
 ### Description
 - HEVC/H.265 인코딩 작업 
@@ -165,7 +165,7 @@ Software Engineer <br>
 <br>
 <br>
     
-## [유지 보수] CMS 고도화
+## [유지 보수]<br>CMS 고도화
 2021.03 ~ curent
 ### Description
 - 컨텐츠 업로드, 메타데이터 관리, 채널 관리, 스케줄 편성 등 다양한 기능을 제공하는 CMS(Content Management System) 를 in-house 로 개발하여 운영중입니다

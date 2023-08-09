@@ -84,7 +84,7 @@ Software Engineer <br>
 </td>
 <td>
 
-## [NEW FEATURE] VOD Management System Development (CMS)
+## [NEW FEATURE]<br>VOD Management System Development (CMS)
 2023.07 ~ Current
 ### Description
 - Develop new feature for managing VOD service 
@@ -98,7 +98,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## [MRO / NEW FEATURE] API Development
+## [MRO / NEW FEATURE]<br>API Development
 2021.12 ~ Current
 ### Description
 - Develop API for scheduling, feeding, EPG transferring, etc ..
@@ -113,7 +113,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## [Refactoring] Renewal in-house CMS
+## [Refactoring]<br>Renewal in-house CMS
 2022.05 ~ 2022.07
 ### Description
 - Renovated in-house CMS solution for public open
@@ -129,7 +129,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## [NEW FEATURE] Cloud Video QC
+## [NEW FEATURE]<br>Cloud Video QC
 2022.01 ~ 2022.03
 ### Description
 - Developed Encoded/transcoded video's QC process
@@ -147,7 +147,7 @@ Software Engineer <br>
 <br>
 <br>
 
-## [NEW FEATURE] Encoding Video with HEVC Codec
+## [NEW FEATURE]<br>Encoding Video with HEVC Codec
 2022.03 ~ 2022.04
 ### Description
 - Encoding Video with HEVC/H.265 Codec
@@ -161,7 +161,7 @@ Software Engineer <br>
 <br>
 <br>
     
-## [MRO] CMS MRO
+## [MRO]<br>CMS MRO
 2021.03 ~ Current
 ### Description
 - Developed and maintained in-house CMS(Content Management System) which provides features, including content uploading, metadata management, channel management, scheduling
