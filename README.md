@@ -84,7 +84,7 @@ Software Engineer <br>
 </td>
 <td>
 
-## [NEW FEATURE]<br>VOD Management System Development (CMS)
+## [NEW FEATURE]<br>VOD Management System
 2023.07 ~ Current
 ### Description
 - Develop new feature for managing VOD service 
