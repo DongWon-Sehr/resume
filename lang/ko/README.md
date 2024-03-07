@@ -19,6 +19,7 @@
 - [동료평가](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#동료평가)
 - [경력사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#경력사항)
 - [프로젝트](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#프로젝트)
+- [특허정보](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#특허정보)
 - [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#교육사항)
 
 <br>
@@ -294,6 +295,16 @@ Backend Developer, Data Engineer<br>
 
 <br>
 <br>
+
+# [특허정보]([https://github.com/DongWon-Sehr/resume#index](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차))
+### 컨텐츠 풀 기반 방송 시스템 및 그 방법
+- KR20230047720A (2021.10)
+- [Google Patents](https://patents.google.com/patent/KR20230047720A/en)
+- [KIPRIS](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020210130874&applno=1020210130874&Gubun=1&sCurrPage=1&searchFg=N&expression=1020210130874&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
+
+<br>
+<br>
+
 
 # [교육사항](https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#목차)
 ### 더조은아카데미
