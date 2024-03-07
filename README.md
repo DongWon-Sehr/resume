@@ -84,14 +84,30 @@ Software Engineer <br>
 </td>
 <td>
 
+## [NEW FEATURE]<br>Ad Server Monitoring (Alarm) System
+2023.12 ~ 2024.01
+### Description
+- Developed a monitoring (alarm) system for logging and aggregating errors on the ad relay servers through batch processing
+### What did I do?
+- Designed log format and alarm system logic.
+- Developed log batch scripts.
+- Set up log batch processing servers (AWS EC2).
+- Implemented alarm system (Email, Slack notifications).
+
+### Tech Stack
+- Bash Script, PHP, AWS EC2
+
+<br>
+<br>
+
 ## [NEW FEATURE]<br>VOD Management System
 2023.07 ~ 2023.10
 ### Description
-- Develop new feature for managing VOD service 
+- Developed new feature for managing VOD service 
 ### What did I do?
-- Design DB table scheme
-- Design user workflow
-- Develop FE / BE
+- Designed DB table scheme
+- Designed user workflow
+- Developed FE / BE
 ### Tech Stack
 - PHP, JavaScript, MySQL, Redis
  
@@ -103,10 +119,10 @@ Software Engineer <br>
 ### Description
 - Develop API for scheduling, feeding, EPG transferring, etc ..
 ### What did I do?
-- Develop LG Channels schedule APIs (EPG transferring)
-- Optimize in-house CMS schedule API
-- Develop feed generation APIs
-- Build a relay server & Develop relay API
+- Developed LG Channels schedule APIs (EPG transferring)
+- Optimized in-house CMS schedule API
+- Developed feed generation APIs
+- Built a relay server & Develop relay API
 ### Tech Stack
 - PHP, MySQL, Redis
  
@@ -136,7 +152,7 @@ Software Engineer <br>
 - Viedo QC is processed in cloud environment which setup as AWS EC2 instances
 ### What did I do?
 - Designed Work Flow
-- Setup AWS EC2 instance servers
+- Set up AWS EC2 instance servers
 - Developed video QC tool with the FFmpeg library and Netflix VMAF open source
 - Built failure notification system with Telegram Bot
 - Developed APIs (QC Job Queue creator / Result Log saver)
