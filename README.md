@@ -85,7 +85,7 @@ Software Engineer <br>
 <td>
 
 ## [NEW FEATURE]<br>VOD Management System
-2023.07 ~ Current
+2023.07 ~ 2023.10
 ### Description
 - Develop new feature for managing VOD service 
 ### What did I do?
