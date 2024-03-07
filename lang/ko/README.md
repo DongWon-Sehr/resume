@@ -88,6 +88,21 @@ Software Engineer <br>
 </td>
 <td>
 
+## [신규 기능]<br>광고 서버 모니터링(알람) 시스템 개발
+2023.12 ~ 2024.01
+### Description
+- 광고 중계 서버 에러로깅 및 로그 취합,집계 배치 작업을 통한 모니터링(알람) 시스템 개발
+### What did I do?
+- 로그 포맷, 알람 시스템 로직 설계
+- 로그 배치 스크립트 개발
+- 로그 배치 처리 서버 구축
+- 알람 시스템 구현 (Email, Slack 알람)
+### Tech Stack
+- Bash Script, PHP, AWS EC2
+ 
+<br>
+<br>
+
 ## [신규 기능]<br>VOD 관리 시스템 (CMS) 개발
 2023.07 ~ 2023.10
 ### Description
