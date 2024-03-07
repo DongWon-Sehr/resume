@@ -15,6 +15,7 @@
 - [Peer Review](https://github.com/DongWon-Sehr/resume#peer-review)
 - [Experience](https://github.com/DongWon-Sehr/resume#experience)
 - [Projects](https://github.com/DongWon-Sehr/resume#projects)
+- [Patents](https://github.com/DongWon-Sehr/resume#patents)
 - [Education](https://github.com/DongWon-Sehr/resume#education)
 
 <br>
@@ -287,6 +288,15 @@ Backend Developer, Data Engineer<br>
 </td>
 </tr>
 </table>
+
+<br>
+<br>
+
+# [Patents](https://github.com/DongWon-Sehr/resume#index)
+### Broadcasting System Based on Contents Pool And Method
+- KR20230047720A (2021.10)
+- [Google Patents](https://patents.google.com/patent/KR20230047720A/en)
+- [KIPRIS](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020210130874&applno=1020210130874&Gubun=1&sCurrPage=1&searchFg=N&expression=1020210130874&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
 
 <br>
 <br>
