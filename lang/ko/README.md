@@ -89,7 +89,7 @@ Software Engineer <br>
 <td>
 
 ## [신규 기능]<br>VOD 관리 시스템 (CMS) 개발
-2023.07 ~ Current
+2023.07 ~ 2023.10
 ### Description
 - VOD 를 통합 관리 및 서비스하기 위한 시스템 개발
 ### What did I do?
