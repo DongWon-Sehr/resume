@@ -61,13 +61,20 @@
 ## Professional Experience
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ Current
+- Media Streaming & Supply Solution Start-up
 
 [Wylie](https://wylie.co.kr/)
 - 2020.12 ~ 2021.03
+- Digital Solutions Agency
 
 ## Social Activities
+TWDAW
+- 2024.02 ~ Current
+- Workout club
+
 [Book Club CBGD](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ Current
+- Book club
 
 <br>
 <br>
