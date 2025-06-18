@@ -92,6 +92,20 @@ Software Engineer <br>
 </td>
 <td>
 
+## [Refactoring / NEW FEATURE]<br>Global ADS System
+2025.05 ~ Current
+### Description
+- Expanded the ADS (Ad Decision Server) system a single (domestic) server environment to a global system and transitioned legacy PHP code to a new kotlin-based technology stack.
+### What did I do?
+- Conducted tech stack evaluation and system design for scalable architecture.
+- Involved in technology stack review and system architecture design.
+
+### Tech Stack
+- Kotlin, Spring, RDB, Redis
+
+<br>
+<br>
+
 ## [NEW FEATURE]<br>Ad Server Monitoring (Alarm) System
 2023.12 ~ 2024.01
 ### Description
