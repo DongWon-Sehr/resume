@@ -96,6 +96,19 @@ Software Engineer <br>
 </td>
 <td>
 
+## [리팩토링 / 신규기능]<br>글로벌 ADS 서버 시스템 구축
+2025.05 ~ Current
+### Description
+- 국내 (단일) 서버에서 운영중인 ADS 시스템을 글로벌 시스템으로 확장하고 Legacy 코드를 신규 기술 스택으로 전환
+### What did I do?
+- 기술스택 검토
+- 시스템 설계
+### Tech Stack
+- Kotlin, Spring, RDB, Redis
+ 
+<br>
+<br>
+
 ## [신규 기능]<br>광고 서버 모니터링 (알람) 시스템 개발
 2023.12 ~ 2024.01
 ### Description
