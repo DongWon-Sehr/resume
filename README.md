@@ -95,10 +95,10 @@ Software Engineer <br>
 </td>
 <td>
 
-## [Refactoring / NEW FEATURE]<br>In-House CMS Kotlin + Spring Boot Transition & Architecture Refactoring
-2025.01 ~ 2026.03
+## [Refactoring / System Advancement]<br>In-House CMS Kotlin + Spring Boot Transition & Architecture Refactoring
+2025.01 ~ Current
 ### Description
-- Migrated in-house legacy PHP monolithic CMS to a modernized technology stack based on Kotlin and Spring Boot, conducting major architectural refactoring.
+- Modernizing and refactoring the existing in-house CMS architecture by transitioning legacy PHP monolith to Kotlin + Spring Boot.
 ### What did I do?
 - Decoupled domain services and redesigned database schemas and API specifications.
 - Built a scalable backend service using Kotlin, Spring Boot, and Spring Data JPA.
@@ -110,7 +110,7 @@ Software Engineer <br>
 <br>
 
 ## [Refactoring / NEW FEATURE]<br>Global ADS System
-2025.05 ~ Current
+2025.05 ~ 2026.01
 ### Description
 - Expanded the ADS (Ad Decision Server) system from a single domestic server environment to a global system and transitioned legacy code to Kotlin and Spring Boot.
 ### What did I do?

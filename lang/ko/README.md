@@ -97,10 +97,10 @@ Software Engineer <br>
 </td>
 <td>
 
-## [리팩토링 / 신규기능]<br>In-House CMS Kotlin + Spring Boot 전환 및 대규모 리팩토링
-2025.01 ~ 2026.03
+## [리팩토링 / 시스템 고도화]<br>In-House CMS Kotlin + Spring Boot 전환 및 대규모 리팩토링
+2025.01 ~ Current
 ### Description
-- 레거시 PHP 모놀리식 기반의 In-House CMS를 Kotlin + Spring Boot 현대화 기술 스택으로 전환하고 아키텍처 리팩토링 진행
+- 기존 PHP 모놀리식 In-House CMS의 아키텍처 현대화 및 시스템 고도화를 위한 Kotlin + Spring Boot 전환 및 대규모 리팩토링 진행
 ### What did I do?
 - 도메인 분리 및 데이터베이스/API 모듈 재설계
 - Kotlin / Spring Boot / Spring Data JPA 기반 신규 백엔드 아키텍처 구축
@@ -112,7 +112,7 @@ Software Engineer <br>
 <br>
 
 ## [리팩토링 / 신규기능]<br>글로벌 ADS 서버 시스템 구축
-2025.05 ~ Current
+2025.05 ~ 2026.01
 ### Description
 - 국내 (단일) 서버에서 운영중인 ADS 시스템을 글로벌 시스템으로 확장하고 Legacy 코드를 신규 기술 스택으로 전환
 ### What did I do?
