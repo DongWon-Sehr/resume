@@ -2,7 +2,10 @@
 
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### I'm DongWon Sehr (서동원).
-### Adventurous Software Developer 🚀
+### Backend Engineer (Kotlin / Spring Boot) 🚀
+- 5+ years of experience in FAST media platforms and AdTech backend systems ⚡
+- Skilled in modernizing legacy monolithic applications to scalable Kotlin + Spring Boot backend architectures 🛠
+- Experienced in high-throughput API design, media QC automation (FFmpeg/VMAF), and AWS cloud infrastructure ☁️
 
 - <a href="mailto:dongwon.sehr@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
 - <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
@@ -83,7 +86,7 @@ TWDAW
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
-<td valign=top sytle="width:50px;">
+<td valign=top style="width:160px;">
 
 ### NEW ID <br>
 Software Engineer <br>
@@ -92,126 +95,57 @@ Software Engineer <br>
 </td>
 <td>
 
+## [Refactoring / NEW FEATURE]<br>In-House CMS Kotlin + Spring Boot Transition & Architecture Refactoring
+2025.01 ~ 2026.03
+### Description
+- Migrated in-house legacy PHP monolithic CMS to a modernized technology stack based on Kotlin and Spring Boot, conducting major architectural refactoring.
+### What did I do?
+- Decoupled domain services and redesigned database schemas and API specifications.
+- Built a scalable backend service using Kotlin, Spring Boot, and Spring Data JPA.
+- Ensured high-throughput data compatibility and managed seamless, zero-downtime phased migration.
+### Tech Stack
+- Kotlin, Spring Boot, Spring Data JPA, MySQL, Redis, AWS
+
+<br>
+<br>
+
 ## [Refactoring / NEW FEATURE]<br>Global ADS System
 2025.05 ~ Current
 ### Description
-- Expanded the ADS (Ad Decision Server) system a single (domestic) server environment to a global system and transitioned legacy PHP code to a new kotlin-based technology stack.
+- Expanded the ADS (Ad Decision Server) system from a single domestic server environment to a global system and transitioned legacy code to Kotlin and Spring Boot.
 ### What did I do?
-- Conducted tech stack evaluation and system design for scalable architecture.
-- Involved in technology stack review and system architecture design.
-
+- Evaluated technology stacks and designed a globally scalable backend architecture.
+- Built high-performance Ad Decision APIs using Kotlin and Spring Boot.
 ### Tech Stack
-- Kotlin, Spring, RDB, Redis
+- Kotlin, Spring Boot, MySQL, Redis, AWS
 
 <br>
 <br>
 
-## [NEW FEATURE]<br>Ad Server Monitoring (Alarm) System
-2023.12 ~ 2024.01
+## [NEW FEATURE / MRO]<br>Ad Server Monitoring Batch & High-Throughput API Development
+2021.12 ~ 2024.01
 ### Description
-- Developed a monitoring (alarm) system for logging and aggregating errors on the ad relay servers through batch processing
+- Built error logging and aggregation monitoring system for ad relay servers and developed FAST channel schedule/EPG/feed delivery APIs.
 ### What did I do?
-- Designed log format and alarm system logic.
-- Developed log batch scripts.
-- Set up log batch processing servers (AWS EC2).
-- Implemented alarm system (Email, Slack notifications).
-
+- Designed log formats and batch processing alarm systems (AWS EC2, Email, Slack integration).
+- Optimized LG Channels EPG transfer and in-house CMS schedule APIs (improved response latency).
+- Built relay servers and developed relay APIs.
 ### Tech Stack
-- Bash Script, PHP, AWS EC2
+- PHP, Bash Script, MySQL, Redis, AWS EC2
 
 <br>
 <br>
 
-## [NEW FEATURE]<br>VOD Management System
-2023.07 ~ 2023.10
+## [NEW FEATURE]<br>Cloud Video QC & HEVC Codec Automation
+2022.01 ~ 2022.04
 ### Description
-- Developed new feature for managing VOD service 
+- Built cloud-based automated video QC pipeline and implemented HEVC/H.265 high-resolution low-bitrate encoding.
 ### What did I do?
-- Designed DB table scheme
-- Designed user workflow
-- Developed FE / BE
-### Tech Stack
-- PHP, JavaScript, MySQL, Redis
- 
-<br>
-<br>
-
-## [MRO / NEW FEATURE]<br>API Development
-2021.12 ~ Current
-### Description
-- Develop API for scheduling, feeding, EPG transferring, etc ..
-### What did I do?
-- Developed LG Channels schedule APIs (EPG transferring)
-- Optimized in-house CMS schedule API
-- Developed feed generation APIs
-- Built a relay server & Develop relay API
-### Tech Stack
-- PHP, MySQL, Redis
- 
-<br>
-<br>
-
-## [Refactoring]<br>Renewal in-house CMS
-2022.05 ~ 2022.07
-### Description
-- Renovated in-house CMS solution for public open
-### What did I do?
-- Designed file directory structure
-- Designed user group & auth structure
-- Refactored legacy source code
-- Optimized API (reduced response time 70% off)
-- Wrote documentation drafts (SRS, Functional Specification, IA, Unit test, etc..)
-### Tech Stack
-- JavaScript, PHP, HTML, MySQL, Redis
- 
-<br>
-<br>
-
-## [NEW FEATURE]<br>Cloud Video QC
-2022.01 ~ 2022.03
-### Description
-- Developed Encoded/transcoded video's QC process
-- Viedo QC is processed in cloud environment which setup as AWS EC2 instances
-### What did I do?
-- Designed Work Flow
-- Set up AWS EC2 instance servers
-- Developed video QC tool with the FFmpeg library and Netflix VMAF open source
-- Built failure notification system with Telegram Bot
-- Developed APIs (QC Job Queue creator / Result Log saver)
-- Developed QC server monitoring system (Auto-scailed server system depends on the number of job queue)
+- Developed automated video QC tool integrating FFmpeg library and Netflix VMAF on AWS EC2.
+- Integrated Telegram alert notifications and auto-scaled processing instances based on job queue load.
+- Developed Multi-Codec Master Playlist (Manifest) encoding.
 ### Tech Stack
 - PHP, MySQL, AWS EC2/S3, FFmpeg, VMAF
- 
-<br>
-<br>
-
-## [NEW FEATURE]<br>Encoding Video with HEVC Codec
-2022.03 ~ 2022.04
-### Description
-- Encoding Video with HEVC/H.265 Codec
-- Secure lower size compare to same bitrate AVC encoding video by applying HEVC encoding to high resolution
-### What did I do?
-- Developed HEVC/H.265 encoding
-- Developed multi-codec master playlist(manifest) encoding (High resolution : HEVC/H.265, low resolution : AVC/H.264)
-### Tech Stack
-- PHP, MySQL, FFmpeg
-
-<br>
-<br>
-    
-## [MRO]<br>CMS MRO
-2021.03 ~ Current
-### Description
-- Developed and maintained in-house CMS(Content Management System) which provides features, including content uploading, metadata management, channel management, scheduling
-- Troubleshooting, improving UI/UX, development required features
-### What did I do?
-- Developed delete library feature (30% of Storage & Cost Save)
-- Developed Deletion history page
-- Improved common page UI
-- Developed search filter of channel management page
-- Developed schedule download feature (Excel, PDF, HTM)
-### Tech Stack
-- JavaScript, PHP, HTML, MySQL, Redis
 
 </td>
 </tr>
@@ -228,83 +162,13 @@ Backend Developer<br>
 ## LIKE LIKE (Hobby Activity Archiving Service)
 2023.03 ~ Current
 ### Description
-- Archive your hobby like as your career!
-- It's still working on
+- Archive your hobby activity like your career! (Hobby archiving platform)
 ### What did I do?
-- Design Server Architecture
-- Design DB table scheme
-- Setup server environment (Ubuntu in AWS)
-- Develop Backend API
+- Designed server architecture and database schemas.
+- Configured AWS (Ubuntu) server infrastructure and built CI/CD workflows.
+- Developed backend RESTful APIs using Spring Boot.
 ### Tech Stack
-- Java(SpringBoot), AWS, Linux(Ubuntu), MySQL, Redis
-
-</td>
-</tr>
-<tr>
-<td valign=top>
-
-### Side Project: Team Mary <br>
-PM, Backend Developer, ML Engineer<br>
-2020.04 ~ 2020.06 <br>
-
-</td>
-<td>
-
-## Mary Talk (Hairshop/Hairstyle Consulting Chatbot)
-2020.04 ~ 2020.06
-### Description
-- Hairshop/Hairstyle Consulting Chatbot target on hairshops in Seoul
-- Answers following three types of question
-1. Recommends customized hairshop
-2. Answers on question about specific hairshop
-3. Analyzes image and guesses hairstyle
-### What did I do?
-- Project management
-- Setup server environment (CentOS 7 in GCP)
-- Scrapped 800,000+ hairshop review and 720,000+ hair image data
-- Pre-processed, classified, cleaned data and trained model
-- Integrated chatbot to KakaoTalk channel
-### Tech Stack
-- Python(Pandas, TensorFlow, Keras, Flask), GCP, Linux(CentOS 7), MariaDB
-
-<br>
-<br>
-    
-## Kakao Hairshop Mobile Scrapper
-2020.05 ~ 2020.05
-### Description
-- Developed Mobile Appliction Scrapper for scrapping hair salon booking app data
-- Developed scrapper with ImageMagick, Charles Web Debugging Proxy Tool
-- Scraps hair salon booking app data with Android Emulator Nox and Windows Batch Script
-### What did I do?
-- Developed program
-### Tech Stack
-- ADB command, Windows Batch
-
-</td>
-</tr>
-<tr>
-<td valign=top>
-
-### Side Project: Personal Study <br>
-Backend Developer, Data Engineer<br>
-2020.01 ~ 2020.02 <br>
-
-</td>
-<td>
-
-## Smart Car Log Analysis
-2020.01 ~ 2020.02
-### Description
-- Collect batch log from smart car and check status by function
-- Collect driver's status log in real-time and analyze driving pattern
-### What did I do?
-- Setup server(CentOS 7) with VirtualBox
-- Setup Hardoop echosystem with Cloudera Manager
-- Built data pipeline with batch data and real-time data
-- Analyze data from smart car
-### Tech Stack
-- Kafka, Redis, Spark, HBase, Hive, Linux(CentOS 7)
+- Spring Boot, AWS, Linux(Ubuntu), MySQL, Redis
 
 </td>
 </tr>
@@ -317,7 +181,7 @@ Backend Developer, Data Engineer<br>
 ### Broadcasting System Based on Contents Pool And Method
 - KR20230047720A (2021.10)
 - [Google Patents](https://patents.google.com/patent/KR20230047720A/en)
-- [KIPRIS](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020210130874&applno=1020210130874&Gubun=1&sCurrPage=1&searchFg=N&expression=1020210130874&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
+- [KIPRIS](https://doi.org/10.8080/1020210130874)
 
 <br>
 <br>
@@ -326,6 +190,9 @@ Backend Developer, Data Engineer<br>
 ### Thejoeun Academy
 - 2019.12 ~ 2020.06
 - Expert Course of Big Data Development & Analysis with Python
+### University of Washington
+- 2017.06 ~ 2017.12
+- Study Abroad Program - Seattle (WA), US
 ### Konkuk University
 - 2012.03 ~ 2019.08
 - BS in Aerospace Information Engineering
