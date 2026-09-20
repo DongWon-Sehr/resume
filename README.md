@@ -1,12 +1,14 @@
-<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko#반갑습니다">한국어</a></p>
+<p align="right">English | <a href="https://github.com/DongWon-Sehr/resume/tree/main/lang/ko">한국어</a></p>
 
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-### I'm DongWon Sehr (서동원).
-### Backend Engineer (Kotlin / Spring Boot) 🚀
-- 5+ years of experience in FAST media platforms and AdTech backend systems ⚡
-- Skilled in modernizing legacy monolithic applications to scalable Kotlin + Spring Boot backend architectures 🛠
-- Experienced in high-throughput API design, media QC automation (FFmpeg/VMAF), and AWS cloud infrastructure ☁️
+# Nice to meet you!
+### My name is DongWon Sehr.
+### I am a _____ .
+- 5th Year Backend Engineer (Kotlin / Spring Boot) 🚀
+- Developer leading legacy monolithic architecture modernization & system optimization 🛠
+- Developer experienced in high-throughput traffic & heavy data pipeline optimization ⚡
+- Developer designing systems considering diverse perspectives including product, design, and user UX alongside engineering 🤝
 
+### Open Channels
 - <a href="mailto:dongwon.sehr@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=gmail&label=&message=E-mail&color=lightgrey" width="70px" alt="Email"></a> dongwon.sehr@gmail.com
 - <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" width="70px" alt="GitHub"></a> https://github.com/DongWon-Sehr
 - <a href="https://www.linkedin.com/in/dongwon-sehr-294679177" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" width="70px" alt="LinkedIn"></a> https://www.linkedin.com/in/dongwon-sehr-294679177
@@ -14,7 +16,7 @@
 <br>
 <br>
 
-# Index
+# Table of Contents
 - [Peer Review](https://github.com/DongWon-Sehr/resume#peer-review)
 - [Experience](https://github.com/DongWon-Sehr/resume#experience)
 - [Projects](https://github.com/DongWon-Sehr/resume#projects)
@@ -64,16 +66,16 @@
 ## Professional Experience
 [NEW ID](https://www.its-newid.com/)
 - 2021.03 ~ Current
-- Media Streaming & Supply Solution Start-up
+- Digital Solutions & Global Distribution Company
 
 [Wylie](https://wylie.co.kr/)
 - 2020.12 ~ 2021.03
 - Digital Solutions Agency
 
 ## Social Activities
-TWDAW
+TWDAW (주삼오공)
 - 2024.02 ~ Current
-- Workout club
+- Workout club (Admin Web App & Chatbot Backend Development)
 
 [Book Club CBGD](https://www.instagram.com/bookclub_cbgd)
 - 2017.02 ~ Current
@@ -82,7 +84,7 @@ TWDAW
 <br>
 <br>
 
-# [Projects](https://github.com/DongWon-Sehr/resume#index)
+# [Projects](https://github.com/DongWon-Sehr/resume#table-of-contents)
 <table style="border-collapse: collapse; border: none;">
 
 <tr>
@@ -95,38 +97,26 @@ Software Engineer <br>
 </td>
 <td>
 
-## [Refactoring / System Advancement]<br>In-House CMS Kotlin + Spring Boot Transition & Architecture Refactoring
+## [Refactoring / System Advancement]<br>In-House CMS Tech Stack Modernization & Large-Scale Refactoring
 2025.01 ~ Current
 ### Description
 - Modernizing and refactoring the existing in-house CMS architecture by transitioning legacy PHP monolith to Kotlin + Spring Boot.
 ### What did I do?
-- Decoupled domain services and redesigned database schemas and API specifications.
+- Separated content metadata and authentication/tenant domains, introducing BFF for a modular backend architecture.
 - Built a scalable backend service using Kotlin, Spring Boot, and Spring Data JPA.
-- Ensured high-throughput data compatibility and managed seamless, zero-downtime phased migration.
+- Managing incremental migration while maintaining data compatibility.
 ### Tech Stack
 - Kotlin, Spring Boot, Spring Data JPA, MySQL, Redis, AWS
 
 <br>
 <br>
 
-## [Refactoring / NEW FEATURE]<br>Global ADS System
-2025.05 ~ 2026.01
-### Description
-- Expanded the ADS (Ad Decision Server) system from a single domestic server environment to a global system and transitioned legacy code to Kotlin and Spring Boot.
-### What did I do?
-- Evaluated technology stacks and designed a globally scalable backend architecture.
-- Built high-performance Ad Decision APIs using Kotlin and Spring Boot.
-### Tech Stack
-- Kotlin, Spring Boot, MySQL, Redis, AWS
-
-<br>
-<br>
-
-## [NEW FEATURE / MRO]<br>Ad Server Monitoring Batch & High-Throughput API Development
+## [NEW FEATURE / Performance Optimization]<br>High-Throughput API Optimization & Real-Time Monitoring Batch System
 2021.12 ~ 2024.01
 ### Description
-- Built error logging and aggregation monitoring system for ad relay servers and developed FAST channel schedule/EPG/feed delivery APIs.
+- Developed high-throughput data delivery APIs and built error logging and aggregation monitoring batch systems.
 ### What did I do?
+- Optimized high-throughput API response latency by applying Redis caching strategies.
 - Designed log formats and batch processing alarm systems (AWS EC2, Email, Slack integration).
 - Optimized LG Channels EPG transfer and in-house CMS schedule APIs (improved response latency).
 - Built relay servers and developed relay APIs.
@@ -152,23 +142,53 @@ Software Engineer <br>
 <tr>
 <td valign=top>
 
-### Side Project: MIAF <br>
-Backend Developer<br>
-2023.03 ~ Current <br>
+### Side Project: JSOG <br>
+Full Stack Developer<br>
+2026.05 ~ 2026.06 <br>
 
 </td>
 <td>
 
-## LIKE LIKE (Hobby Activity Archiving Service)
-2023.03 ~ Current
+## JSOG Member & Workout Management System (Admin & Chatbot)
+2026.05 ~ 2026.06
 ### Description
-- Archive your hobby activity like your career! (Hobby archiving platform)
+- Admin web console (SPA) and KakaoTalk chatbot backend for online workout accountability club
 ### What did I do?
-- Designed server architecture and database schemas.
-- Configured AWS (Ubuntu) server infrastructure and built CI/CD workflows.
-- Developed backend RESTful APIs using Spring Boot.
+- Developed Vue-based SPA admin dashboard and weekly ranking/settlement automation UI.
+- Implemented Optimistic UI updates to overcome GAS latency and ensure immediate interaction response.
+- Designed layered architecture (Controller/Service) and API routing based on Google Apps Script (GAS).
+- Modeled database schemas across 6 Google Sheets tables.
+- Integrated KakaoTalk chatbot for real-time workout log ingestion and webhook processing.
+- Built clasp-based deployment automation and Playwright E2E testing workflows.
 ### Tech Stack
-- Spring Boot, AWS, Linux(Ubuntu), MySQL, Redis
+- Google Apps Script, Vue, Tailwind CSS, Google Sheets, clasp, Playwright
+
+</td>
+</tr>
+<tr>
+<td valign=top>
+
+### Side Project: Wangbijib <br>
+Full Stack Developer<br>
+2025.12 ~ Current <br>
+
+</td>
+<td>
+
+## Wangbijib Reservation Management System Admin (wangbijib-rms-admin)
+2025.12 ~ Current
+### Description
+- Back-office admin web app for monitoring multi-branch reservations and managing deposits and booking slots
+### What did I do?
+- Integrated with 3rd-party reservation widget (Elfsight) to ingest real-time booking data and established Gmail-threaded customer communication pipelines.
+- Developed Elfsight custom client scripts to enforce dynamic slot closing (break times, holiday overrides) and business policies.
+- Built serverless backend architecture leveraging Google Workspace (GAS, Sheets, Calendar, Gmail).
+- Architected background queues and utilized Google Calendar Batch API to synchronize bulk booking slots.
+- Developed mobile-optimized Vue UI featuring pull-to-refresh and dynamic notification status badges.
+- Built custom HTML email template substitution engine for automated booking confirmations and notifications.
+- Established clasp-based deployment and version management workflows.
+### Tech Stack
+- Google Apps Script, Vue, Tailwind CSS, Google Sheets, Google Calendar API, Gmail API, clasp, Elfsight
 
 </td>
 </tr>
@@ -191,8 +211,8 @@ Backend Developer<br>
 - 2019.12 ~ 2020.06
 - Expert Course of Big Data Development & Analysis with Python
 ### University of Washington
-- 2017.06 ~ 2017.12
-- Study Abroad Program - Seattle (WA), US
+- 2016.09 ~ 2016.12
+- Study Abroad Program (IELP) - Seattle (WA), US
 ### Konkuk University
 - 2012.03 ~ 2019.08
 - BS in Aerospace Information Engineering
